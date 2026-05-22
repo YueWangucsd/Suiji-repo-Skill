@@ -69,6 +69,7 @@
 - 主要讨论：耳饰舒适度、敏感耳、日常耳饰、背扣
 - 为什么适合/不适合 SUIJI：耳饰垂直、痛点集中，适合敏感耳/重量/搭配/日常佩戴讨论。规模不大但相关性极高。
 - 规则摘要：No Fakes!；No questions about infected ears；No giveaways；Earrings only；No sexism；No harassment or witch hunts
+- 中文规则摘要：禁止假货/仿品；禁止询问耳洞感染相关问题；禁止抽奖/赠品活动；仅限耳饰相关内容；禁止性别歧视；禁止骚扰或人肉/围攻
 - 规则对运营的影响：语气要克制、具体、非评判。
 - 进入方式：适合研究式提问，不要医疗化
 - 回复风险：中
@@ -82,6 +83,7 @@
 - 主要讨论：结构、维修、材料、工艺
 - 为什么适合/不适合 SUIJI：工艺和结构讨论密集，适合验证 Core-Lock、可拆结构、维修和耐用性担忧。
 - 规则摘要：Promotional content；Behavioral Guidelines；Content Guidelines；Title and Flair Guidelines
+- 中文规则摘要：推广内容限制；行为准则；内容准则；标题和标签规范
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 发帖要有高信息密度，避免泛泛求关注。
 - 进入方式：更适合技术细节和设计讨论
 - 回复风险：低-中
@@ -95,6 +97,7 @@
 - 主要讨论：职场穿搭、商务休闲
 - 为什么适合/不适合 SUIJI：职场穿搭和通勤场景强，适合观察低调、可靠、不过度张扬的首饰需求。
 - 规则摘要：No spam；No advertisment；No NSFW content；No inapropriate messages；Be respectfull；LGBTQ+ inclusive community；No OnlyFans Or Similar ；No Gatekeeping 
+- 中文规则摘要：禁止垃圾信息；禁止广告；禁止成人/不适宜内容；禁止不当信息；保持尊重；LGBTQ+ 友好社区；禁止 OnlyFans 或类似内容；禁止排外/资格审查式发言
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。
 - 进入方式：适合软性场景问题
 - 回复风险：低-中
@@ -108,6 +111,7 @@
 - 主要讨论：女性旅行轻装、打包清单
 - 为什么适合/不适合 SUIJI：旅行轻量打包场景和模块化价值高度贴合，用户愿意认真讨论取舍。
 - 规则摘要：Be Kind and Assume Positive Intent；Give and Receive Feedback Generously；Post Quality Content；Stay Focused on One-Bag Travel；Share Genuine Resources, Don’t Chase Clout；Everyday Carry (EDC) Posts Must Support Lighter Travel；Please follow the posting guidelines
+- 中文规则摘要：友善沟通，并默认对方是善意的；慷慨地给出和接受反馈；发布高质量内容；保持内容聚焦于单包旅行；分享真实资源，不要蹭热度；EDC 内容必须服务于更轻便旅行；请遵守发帖指南
 - 规则对运营的影响：发帖要有高信息密度，避免泛泛求关注。
 - 进入方式：适合问实际打包取舍
 - 回复风险：低-中
@@ -121,6 +125,7 @@
 - 主要讨论：少而精衣橱、长期搭配
 - 为什么适合/不适合 SUIJI：少而精、可复用、场景切换和搭配效率与模块化首饰天然相关。
 - 规则摘要：No off topic, low-effort or spam content.；Hateful rhetoric, bullying and/or harassment is not allowed；No affiliate links, sponsored content, or subscriber/follower farming.；No Doxxing or calls for mobbing across communities；No Artificial Intelligence. ；No App Posts
+- 中文规则摘要：禁止跑题、低质量或垃圾内容；禁止仇恨言论、霸凌或骚扰；禁止联盟链接、赞助内容或引流涨粉；禁止人肉或跨社区动员围攻；禁止 AI 生成内容；禁止 App 推广/相关帖子
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。
 - 进入方式：避免刺激消费主义
 - 回复风险：低-中
@@ -135,6 +140,7 @@
 - 主要讨论：定制戒指、吊坠、套装、供应商经验里会出现 ring-to-pendant、可替换主石、同一颗石头多场景使用的需求。
 - 为什么适合/不适合 SUIJI：定制/宝石/供应商讨论成熟，能观察用户如何表达定制、转换、耐用、预算和审美。
 - 规则摘要：Follow the Reddit Content Policy；Please read/research the sub before posting；No discussions surrounding exact replicas；Be civil to each other；No advertising/vendor posting；No valuation or "what is this" posts；Missing Content/Low Effort Post；No Stone Identification
+- 中文规则摘要：遵守 Reddit 内容政策；发帖前请先阅读和研究本社区；禁止讨论精确复刻/仿制品；互相文明交流；禁止广告或商家发帖；禁止估价或“这是什么”类帖子；缺少内容/低质量帖子；禁止宝石鉴定
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。 发帖要有高信息密度，避免泛泛求关注。
 - 进入方式：观察定制需求、拆解高赞评论、找 convertible jewelry 真实语言。
 - 回复风险：不要直接推产品；优先研究式提问和案例学习。
@@ -148,6 +154,7 @@
 - 主要讨论：用户常讨论定制、设计图、戒指/吊坠转换、实验性设计；比大众首饰社区更愿意讨论结构与宝石配置。
 - 为什么适合/不适合 SUIJI：小而专业，适合调研定制和结构可行性，讨论质量高。
 - 规则摘要：We use an approved vendor list on this sub. Please see mods for consideration if you are a lapidary.；Be polite. This should be fun!；Follow Reddit Content Policy；Detailed spec and photo/video posts；No witch-hunting, call outs or shaming；No discussions about exact replicas；No Spam!
+- 中文规则摘要：本社区使用已批准商家名单；宝石切割/相关从业者需联系版主审核；保持礼貌，这里应该是轻松有趣的；Follow Reddit Content Policy（待人工翻译/复核）；帖子需包含详细参数和图片/视频；禁止围攻、点名批评或羞辱；No discussions about exact replicas（待人工翻译/复核）；禁止垃圾信息
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
 - 进入方式：调研定制用户如何判断设计可行性、预算、耐用性。
 - 回复风险：专业度要求高，回答必须具体且谨慎。
@@ -162,6 +169,7 @@
 - 主要讨论：专业维修和台面工视角能检验可拆结构是否像 gimmick、是否容易返修、是否影响耐久。
 - 为什么适合/不适合 SUIJI：专业维修视角能直接暴露可拆结构的返修、松动、耐久和 gimmick 风险。
 - 规则摘要：规则接口未取到；运营前必须打开 subreddit 规则页人工复核。
+- 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
 - 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
 - 进入方式：请教机制风险、维修可行性、行业术语。
 - 回复风险：小而专业，外行语气会被识别。
@@ -175,6 +183,7 @@
 - 主要讨论：购买建议、材质、保养、掉色、品牌质量
 - 为什么适合/不适合 SUIJI：首饰综合大池子，适合观察趋势和痛点，但竞争较大，评论要更快更具体。
 - 规则摘要：Remember the Human；Read Through the Jewelry FAQ Page Before Posting；Vendors MUST Read the Vendor Guidelines Before Posting ；No Valuation / Authentication；No Stone Identification；Hallmark and/or General Identification；"Help Me Find X" Type Posts；Missing Context and Low Effort Posts
+- 中文规则摘要：记住对方是真人，保持基本尊重；发帖前先阅读 Jewelry FAQ；商家发帖前必须阅读商家指南；禁止估价/真伪鉴定；禁止宝石鉴定；禁止印记/泛泛鉴定类请求；禁止“帮我找某物”类帖子；Missing Context and Low Effort Posts（待人工翻译/复核）
 - 规则对运营的影响：发帖要有高信息密度，避免泛泛求关注。
 - 进入方式：避免品牌硬推，适合知识型回复
 - 回复风险：低-中
@@ -189,6 +198,7 @@
 - 主要讨论：穿孔、敏感、发炎、材质、背扣
 - 为什么适合/不适合 SUIJI：敏感耳、材质、舒适度强相关，但医疗/感染风险高，评论要谨慎。
 - 规则摘要：✅ Photos have to be in focus, well lit, clear and close up. (Expand to read what that means)；✅ Choice of words matter, be kind to one  another；⚠️ NSFW needs to be tagged；🚫 Comments about appearance and/or any sexual remarks are not allowed；🚫 No DIY allowed；⚠️ Unsafe, harmful, dangerous advice and/or misinformation is not welcome；🚫 No sales/advertising/spam or (self) promotion；🚫 No low effort, trolling, memes, karma farming, clickbait, (comment) bots and the like, allowed
+- 中文规则摘要：照片必须清晰、光线好、近距离且对焦；注意措辞，彼此友善；成人/不适宜内容必须标记 NSFW；禁止评论外貌或发表性暗示言论；禁止 DIY 穿孔/自行处理建议；禁止不安全、有害、危险建议或误导信息；禁止销售、广告、垃圾信息或自我推广；禁止低质量、钓鱼、梗图、刷 karma、标题党、评论机器人等内容
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 发帖要有高信息密度，避免泛泛求关注。
 - 进入方式：医疗风险高，产品不要进场
 - 回复风险：高
@@ -203,6 +213,7 @@
 - 主要讨论：穿孔问题和建议
 - 为什么适合/不适合 SUIJI：问题明确，适合观察材质/敏感/佩戴痛点，但不适合产品推广。
 - 规则摘要：规则接口未取到；运营前必须打开 subreddit 规则页人工复核。
+- 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
 - 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
 - 进入方式：主要作为洞察，不建议公开产品回复
 - 回复风险：高
@@ -217,6 +228,7 @@
 - 主要讨论：专业维修、工艺、材质判断
 - 为什么适合/不适合 SUIJI：专业边界和 claim 校准价值高，但需要证据和专业语言。
 - 规则摘要：No Authentications or Requests for Authentications ；Spam Will Get You Banned；Don't Be A Jerk；No Valuations or Requests for Valuations ；Minimum Comment and Post Karma；No Solicitation；No Cross-Posting ；No Repair, Pricing or Sizing Questions
+- 中文规则摘要：No Authentications or Requests for Authentications（待人工翻译/复核）；垃圾信息会导致封禁；不要刻薄/冒犯他人；禁止估价或估价请求；有最低评论和发帖 karma 要求；禁止招揽/拉客；禁止跨社区转帖；禁止维修、价格或尺寸问题
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
 - 进入方式：需要更严谨，避免外行营销语
 - 回复风险：中
@@ -231,6 +243,7 @@
 - 主要讨论：设计反馈、概念验证
 - 为什么适合/不适合 SUIJI：适合审美/设计反馈，但社区规模小，活跃度波动较大。
 - 规则摘要：规则接口未取到；运营前必须打开 subreddit 规则页人工复核。
+- 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
 - 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
 - 进入方式：发帖前必须查规则
 - 回复风险：中
@@ -245,6 +258,7 @@
 - 主要讨论：适合讨论模块连接结构、尺寸公差、可制造性、渲染/打样反馈。
 - 为什么适合/不适合 SUIJI：极垂直结构打样社区，适合小规模专业验证。
 - 规则摘要：规则接口未取到；运营前必须打开 subreddit 规则页人工复核。
+- 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
 - 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
 - 进入方式：收集结构图反馈、建立设计验证问题清单。
 - 回复风险：非常小众，活跃度有限。
@@ -259,6 +273,7 @@
 - 主要讨论：成熟风格、质量、实用性
 - 为什么适合/不适合 SUIJI：35+ 女性穿搭场景好，但首饰不是唯一主题，需要自然切入。
 - 规则摘要：Keep it fluffy. This means no politics of any kind.；Keep it fashion；Keep it friendly；Keep it fair；Keep it Flair-Y；Keep it functional and for-real: no spam；Keep it here；Keep it G-rated
+- 中文规则摘要：Keep it fluffy. This means no politics of any kind.（待人工翻译/复核）；Keep it fashion（待人工翻译/复核）；Keep it friendly（待人工翻译/复核）；Keep it fair（待人工翻译/复核）；Keep it Flair-Y（待人工翻译/复核）；Keep it functional and for-real: no spam（待人工翻译/复核）；Keep it here（待人工翻译/复核）；Keep it G-rated（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
 - 进入方式：语气要成熟具体
 - 回复风险：低-中
@@ -273,6 +288,7 @@
 - 主要讨论：比例、精致小体量配饰
 - 为什么适合/不适合 SUIJI：体型/比例/轻量首饰相关，但主题偏穿搭，不能硬转产品。
 - 规则摘要：Keep posts petite fashion-related；General fashion, outfit, and body shape posts belong in the Scheduled threads；You must have BOTH a user flair AND a post flair to submit a post.；No personal attacks or hate speech；No inappropriate comments or body/weight-shaming；No self-promotion；No spam or referral links；No exposing personal information
+- 中文规则摘要：Keep posts petite fashion-related（待人工翻译/复核）；General fashion, outfit, and body shape posts belong in the Scheduled threads（待人工翻译/复核）；You must have BOTH a user flair AND a post flair to submit a post.（待人工翻译/复核）；No personal attacks or hate speech（待人工翻译/复核）；No inappropriate comments or body/weight-shaming（待人工翻译/复核）；No self-promotion（待人工翻译/复核）；No spam or referral links（待人工翻译/复核）；No exposing personal information（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
 - 进入方式：适合比例和场景建议
 - 回复风险：低-中
@@ -286,6 +302,7 @@
 - 主要讨论：婚礼/正式场合穿搭审核
 - 为什么适合/不适合 SUIJI：场景明确，适合观察首饰搭配决策，但多为单次事件。
 - 规则摘要：Wedding Attire Posts Only；Be kind and respectful；No arguing.；Inappropriate comment；Helpful comments only；Respect all gender identities and sexual preferences；Troll posts
+- 中文规则摘要：Wedding Attire Posts Only（待人工翻译/复核）；Be kind and respectful（待人工翻译/复核）；No arguing.（待人工翻译/复核）；Inappropriate comment（待人工翻译/复核）；Helpful comments only（待人工翻译/复核）；Respect all gender identities and sexual preferences（待人工翻译/复核）；Troll posts（待人工翻译/复核）
 - 规则对运营的影响：语气要克制、具体、非评判。
 - 进入方式：不要抢焦点，避免品牌推荐
 - 回复风险：中
@@ -300,6 +317,7 @@
 - 主要讨论：耐用、长期价值、反一次性消费
 - 为什么适合/不适合 SUIJI：耐用/质量语言很有价值，但商业和推荐风险高，进入要慢。
 - 规则摘要：Posted products must be BIFL；Requests must be Flaired as such；No Low-Effort Posts；No Home-made items；No new or unreleased products；Non-descriptive product posts；Affiliate links or free/discounted product；No Advertising on /r/BuyItForLife
+- 中文规则摘要：Posted products must be BIFL（待人工翻译/复核）；Requests must be Flaired as such（待人工翻译/复核）；No Low-Effort Posts（待人工翻译/复核）；No Home-made items（待人工翻译/复核）；No new or unreleased products（待人工翻译/复核）；Non-descriptive product posts（待人工翻译/复核）；Affiliate links or free/discounted product（待人工翻译/复核）；No Advertising on /r/BuyItForLife（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
 - 进入方式：需要强证据，拒绝营销
 - 回复风险：中
@@ -314,6 +332,7 @@
 - 主要讨论：整体造型反馈
 - 为什么适合/不适合 SUIJI：流量大但节奏快，适合学习搭配语言，不是早期主阵地。
 - 规则摘要：COMMENTS MUST BE CONSTRUCTIVE, HELPFUL, AND KIND；COMMENTS MUST BE ABOUT THE OUTFIT；NO CREEPY OR SEXUAL COMMENTS；NO MISOGYNY, HATE, OR BIGOTRY；NO NSFW ACCOUNTS；DON'T DM ANYONE OR SOLICIT CONTACT INFO；SHOW YOUR OUTFIT CLEARLY AND APPROPRIATELY；FLAIR YOUR POSTS APPROPRIATELY
+- 中文规则摘要：COMMENTS MUST BE CONSTRUCTIVE, HELPFUL, AND KIND（待人工翻译/复核）；COMMENTS MUST BE ABOUT THE OUTFIT（待人工翻译/复核）；NO CREEPY OR SEXUAL COMMENTS（待人工翻译/复核）；NO MISOGYNY, HATE, OR BIGOTRY（待人工翻译/复核）；NO NSFW ACCOUNTS（待人工翻译/复核）；DON'T DM ANYONE OR SOLICIT CONTACT INFO（待人工翻译/复核）；SHOW YOUR OUTFIT CLEARLY AND APPROPRIATELY（待人工翻译/复核）；FLAIR YOUR POSTS APPROPRIATELY（待人工翻译/复核）
 - 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
 - 进入方式：少谈产品，多谈搭配逻辑
 - 回复风险：中
@@ -328,6 +347,7 @@
 - 主要讨论：穿搭建议、场景搭配、胶囊衣橱
 - 为什么适合/不适合 SUIJI：超大社区，规则和文化复杂，不适合一开始重投。
 - 规则摘要：spam or referral links；marketing or market research；personal attacks or hate speech；threats or doxxing；lechery；unsolicited diet, exercise or weight loss advice；posts that belong in a daily/weekly thread；meta posts
+- 中文规则摘要：spam or referral links（待人工翻译/复核）；marketing or market research（待人工翻译/复核）；personal attacks or hate speech（待人工翻译/复核）；threats or doxxing（待人工翻译/复核）；lechery（待人工翻译/复核）；unsolicited diet, exercise or weight loss advice（待人工翻译/复核）；posts that belong in a daily/weekly thread（待人工翻译/复核）；meta posts（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
 - 进入方式：规则和社区文化强，先观察
 - 回复风险：中-高
@@ -342,6 +362,7 @@
 - 主要讨论：少拥有、减少物品
 - 为什么适合/不适合 SUIJI：理念相关但首饰相关度不稳定，适合观察少而精价值观。
 - 规则摘要：No memes；Posts need to be related to minimalism；Please keep things civil；No self-promotion / advertising；Assign a flair to your post after submitting it；No AI-generated posts or comments
+- 中文规则摘要：No memes（待人工翻译/复核）；Posts need to be related to minimalism（待人工翻译/复核）；Please keep things civil（待人工翻译/复核）；No self-promotion / advertising（待人工翻译/复核）；Assign a flair to your post after submitting it（待人工翻译/复核）；No AI-generated posts or comments（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
 - 进入方式：非常反感消费推动
 - 回复风险：中
@@ -356,6 +377,7 @@
 - 主要讨论：功能性旅行轻装
 - 为什么适合/不适合 SUIJI：旅行轻量理念相关，但偏装备，首饰切入要非常克制。
 - 规则摘要：Onebag Travel Related Posts Only；Bag Finder Megathread；No Low-Effort Posts；Be Nice!；No Direct Link Posts to External Websites；No Referral Links or Codes；No Advertising, Marketing, or Research Posts
+- 中文规则摘要：Onebag Travel Related Posts Only（待人工翻译/复核）；Bag Finder Megathread（待人工翻译/复核）；No Low-Effort Posts（待人工翻译/复核）；Be Nice!（待人工翻译/复核）；No Direct Link Posts to External Websites（待人工翻译/复核）；No Referral Links or Codes（待人工翻译/复核）；No Advertising, Marketing, or Research Posts（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
 - 进入方式：更偏功能，审美话术要收敛
 - 回复风险：中
@@ -370,6 +392,7 @@
 - 主要讨论：This is a forum for the Jewelry and Metalsmithing community. To share work, critique, share techniques and generally connect and collaborate.
 - 为什么适合/不适合 SUIJI：根据相关性和风险综合判断。
 - 规则摘要：规则接口未取到；运营前必须打开 subreddit 规则页人工复核。
+- 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
 - 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
 - 进入方式：先观察高赞帖和近期评论，再做帮助型评论。
 - 回复风险：规则和语气需人工复核
@@ -389,6 +412,7 @@ Beginner? Please see the pinned post for beginners resources before asking your 
 New to the sub? Please read the rules before posting.
 - 为什么适合/不适合 SUIJI：根据相关性和风险综合判断。
 - 规则摘要：Beginners Resources Pinned Post；No posts regarding sales or self promotion；No commission requests；Respectful discourse
+- 中文规则摘要：Beginners Resources Pinned Post（待人工翻译/复核）；No posts regarding sales or self promotion（待人工翻译/复核）；No commission requests（待人工翻译/复核）；Respectful discourse（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。
 - 进入方式：先观察高赞帖和近期评论，再做帮助型评论。
 - 回复风险：规则和语气需人工复核
@@ -407,6 +431,7 @@ The goal is to at once embrace, and poke fun at, the mystical aspects of feminin
 This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ community. We are Sisters, not Cisters. If you do not consider yourself an ally, then this subreddit is not for you.
 - 为什么适合/不适合 SUIJI：根据相关性和风险综合判断。
 - 规则摘要：Be kind；Destroy the Patriarchy；No Evangelizing；Follow Coven Etiquette；Marketplace and Economic Rules
+- 中文规则摘要：Be kind（待人工翻译/复核）；Destroy the Patriarchy（待人工翻译/复核）；No Evangelizing（待人工翻译/复核）；Follow Coven Etiquette（待人工翻译/复核）；Marketplace and Economic Rules（待人工翻译/复核）
 - 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
 - 进入方式：先观察高赞帖和近期评论，再做帮助型评论。
 - 回复风险：规则和语气需人工复核
@@ -420,6 +445,7 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 主要讨论：Cottagecore is an aesthetic depicting a simple, romanticized life in nature. It features themes of farm animals, earthy tones, soft illustrations, and more.
 - 为什么适合/不适合 SUIJI：根据相关性和风险综合判断。
 - 规则摘要：Self promotion posts are not allowed；Spam/Low effort posts are not allowed；No bigotry；No NSFW/NSFL content；Artists must be credited；Do not attempt to plan in-person meet-ups
+- 中文规则摘要：Self promotion posts are not allowed（待人工翻译/复核）；Spam/Low effort posts are not allowed（待人工翻译/复核）；No bigotry（待人工翻译/复核）；No NSFW/NSFL content（待人工翻译/复核）；Artists must be credited（待人工翻译/复核）；Do not attempt to plan in-person meet-ups（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 发帖要有高信息密度，避免泛泛求关注。
 - 进入方式：先观察高赞帖和近期评论，再做帮助型评论。
 - 回复风险：规则和语气需人工复核
@@ -434,6 +460,7 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 主要讨论：r/OldHagFashion is a space to celebrate feminine and androgynous fashion in ALL it's forms, to share diverse style inspiration, to de-stigmatize aging in fashion, and to engage in self-discovery through personal style, all with an Old Hag fashion philosophy.
 - 为什么适合/不适合 SUIJI：根据相关性和风险综合判断。
 - 规则摘要：Be Kind；No gatekeeping Old Hag Fashion；Respect the flair；No prohibited accounts；No prohibited body talk；No lechery；No stand-alone rants, trend bashing, or inter-sub drama；No single-item images or face-only selfies
+- 中文规则摘要：Be Kind（待人工翻译/复核）；No gatekeeping Old Hag Fashion（待人工翻译/复核）；Respect the flair（待人工翻译/复核）；No prohibited accounts（待人工翻译/复核）；No prohibited body talk（待人工翻译/复核）；No lechery（待人工翻译/复核）；No stand-alone rants, trend bashing, or inter-sub drama（待人工翻译/复核）；No single-item images or face-only selfies（待人工翻译/复核）
 - 规则对运营的影响：语气要克制、具体、非评判。
 - 进入方式：先观察高赞帖和近期评论，再做帮助型评论。
 - 回复风险：规则和语气需人工复核
@@ -448,6 +475,7 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 主要讨论：用户关注组件、串联、配色、扣件、替换和 DIY 组合，能提供组装式审美与结构灵感。
 - 为什么适合/不适合 SUIJI：DIY 组装和配件组合相关，适合观察用户如何理解可替换组件和个性化。
 - 规则摘要：No bullying/harassment；No Advertising/Spam；No sharing copyrighted patterns.；No dream catchers；No linking to Aliexpress, Temu, or similar online markets；No stealing other people’s work；No politics；No AI images
+- 中文规则摘要：No bullying/harassment（待人工翻译/复核）；No Advertising/Spam（待人工翻译/复核）；No sharing copyrighted patterns.（待人工翻译/复核）；No dream catchers（待人工翻译/复核）；No linking to Aliexpress, Temu, or similar online markets（待人工翻译/复核）；No stealing other people’s work（待人工翻译/复核）；No politics（待人工翻译/复核）；No AI images（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。
 - 进入方式：研究组件化语言和用户 DIY 动机。
 - 回复风险：偏手作，不等同于 demi-fine 消费者。
@@ -462,6 +490,7 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 主要讨论：可观察 charms、手链组件、搭配和礼物场景，但更偏品牌售后与收藏。
 - 为什么适合/不适合 SUIJI：品牌/串饰社区能观察模块化饰品的用户语言，但品牌边界强，不适合提 SUIJI。
 - 规则摘要：loren ipsum
+- 中文规则摘要：loren ipsum（待人工翻译/复核）
 - 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
 - 进入方式：补充组合式首饰的用户语言。
 - 回复风险：品牌社区敏感，不建议主动品牌回复。
@@ -476,6 +505,7 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 主要讨论：不是 SUIJI 同类产品，但用户天然理解 charms、可替换组件、收藏与组合玩法。
 - 为什么适合/不适合 SUIJI：模块化串饰和收藏逻辑相关，适合学习用户如何谈论可替换、组合、主题和配件生态。
 - 规则摘要：Privacy；No harassment；No misinformation 
+- 中文规则摘要：Privacy（待人工翻译/复核）；No harassment（待人工翻译/复核）；No misinformation（待人工翻译/复核）
 - 规则对运营的影响：语气要克制、具体、非评判。
 - 进入方式：研究模块化首饰的“收集/组合/情绪价值”语言。
 - 回复风险：品牌粉丝社区，不能比较或蹭品牌。
@@ -489,6 +519,7 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 主要讨论：适合看金属连接、扣件、焊接、维修、耐用性讨论。
 - 为什么适合/不适合 SUIJI：专业金工视角可用于材料和结构学习，早期不作为主运营社区。
 - 规则摘要：Beginners Resources Pinned Post；No posts regarding sales or self promotion；No commission requests；Respectful discourse
+- 中文规则摘要：Beginners Resources Pinned Post（待人工翻译/复核）；No posts regarding sales or self promotion（待人工翻译/复核）；No commission requests（待人工翻译/复核）；Respectful discourse（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。
 - 进入方式：补充工艺知识和反对意见。
 - 回复风险：更偏工艺，不一定有消费者购买语言。
@@ -502,6 +533,7 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 主要讨论：有大量 plug、tunnel、material、size、fit 讨论，体现身体饰品组件化和舒适度逻辑。
 - 为什么适合/不适合 SUIJI：穿孔首饰材质/舒适度相关，但医疗和身体改造语境强，先观察不主动运营。
 - 规则摘要：Mark NSFW posts；Spam；No demeaning terms or personal attacks；Do not spread harmful advice or misinformation；Memes/shitposts；Spreading Information on or Using Unsafe Practices；No Low Quality Images；Don't be creepy.
+- 中文规则摘要：Mark NSFW posts（待人工翻译/复核）；Spam（待人工翻译/复核）；No demeaning terms or personal attacks（待人工翻译/复核）；Do not spread harmful advice or misinformation（待人工翻译/复核）；Memes/shitposts（待人工翻译/复核）；Spreading Information on or Using Unsafe Practices（待人工翻译/复核）；No Low Quality Images（待人工翻译/复核）；Don't be creepy.（待人工翻译/复核）
 - 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 发帖要有高信息密度，避免泛泛求关注。
 - 进入方式：学习材质、尺寸、fit 的高风险社区语言。
 - 回复风险：身体改造语境强，不适合品牌介入。
@@ -516,6 +548,7 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 主要讨论：偏手作和可改造结构，能观察用户如何解释连接、固定、挂坠转换。
 - 为什么适合/不适合 SUIJI：手工结构和材料语言有价值，但与 SUIJI 成品用户重合度较低。
 - 规则摘要：Rules
+- 中文规则摘要：Rules（待人工翻译/复核）
 - 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
 - 进入方式：寻找结构解释方式和视觉反馈。
 - 回复风险：与 SUIJI 精密快拆定位距离较远。
