@@ -31,6 +31,17 @@ SUIJI 现在已经有 Reddit 相关资料、社区库、首饰知识库、高赞
 - `SUIJI_Reddit运营工作台_v0.1.xlsx`  
   团队每日使用的表格模板。包含每日队列、团队打卡、专家任务、种子用户 CRM、周报输入、KPI 等。
 
+## 飞书链接
+
+由于当前飞书 bot 对 `Suiji/Reddit` 文件夹没有写入权限，本次文件先创建在 bot 默认根目录，并自动授予当前飞书用户可管理权限。后续可以在飞书里手动移动到单独文件夹 `SUIJI Reddit 运营系统 v0.1`。
+
+- 运营系统索引：https://www.feishu.cn/file/NWhzb0isOoGCQTxL4NTcxl8PnTf
+- 运营 SOP：https://www.feishu.cn/file/OpSSbyheGoA7EAx7gIHcalLBnsf
+- 每日运营制度：https://www.feishu.cn/file/RAdqbAZdEo6my8xbfDZcK98wnhh
+- 周报制度：https://www.feishu.cn/file/TwDLbeQmfoeJr8xJUjkcHzzOn1f
+- Skill 修改方案：https://www.feishu.cn/file/ZWezbsUuAoJ5UVxjBiScO5wtniE
+- 运营工作台 Sheet：https://f0ldzvcs4a2.feishu.cn/sheets/Lsd1s6BA1hgz06tznJqcS8jJndd
+
 ## 和旧知识库的关系
 
 旧知识库不废弃，分工如下：
