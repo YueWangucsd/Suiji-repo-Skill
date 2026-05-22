@@ -19,6 +19,9 @@ SUIJI 现在已经有 Reddit 相关资料、社区库、首饰知识库、高赞
 - `SUIJI_Reddit运营SOP_v0.1.md`  
   团队执行手册。定义目标、分工、每日流程、评论规则、风险边界、KPI 和复盘方式。
 
+- `SUIJI_Reddit团队运营SOP_v0.1.md` / `SUIJI_Reddit团队运营SOP_v0.1.docx`  
+  团队主 SOP。把分工、KPI、每日/每周流程、风险边界、工具链接和迁移说明放到一份可直接给团队使用的文档里。
+
 - `SUIJI_Reddit每日运营制度_v0.1.md`  
   每日团队工作流。说明每天如何使用 rising/new、如何打卡、专家怎么介入、哪些动作不能做。
 
@@ -41,6 +44,7 @@ SUIJI 现在已经有 Reddit 相关资料、社区库、首饰知识库、高赞
 - 周报制度：https://www.feishu.cn/file/TwDLbeQmfoeJr8xJUjkcHzzOn1f
 - Skill 修改方案：https://www.feishu.cn/file/ZWezbsUuAoJ5UVxjBiScO5wtniE
 - 运营工作台 Sheet：https://f0ldzvcs4a2.feishu.cn/sheets/Lsd1s6BA1hgz06tznJqcS8jJndd
+- 团队运营 SOP：本地 DOCX 已生成；飞书原生导入待重试。当前失败原因是 Feishu 上传接口网络中断/TLS handshake timeout，不是文档内容问题。
 
 ## 和旧知识库的关系
 
