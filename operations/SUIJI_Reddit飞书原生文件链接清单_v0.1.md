@@ -18,7 +18,7 @@
 | SUIJI Reddit 每日运营制度 v0.1 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/HLOYdCmbQoyIVdxdQ13cNf1Dnfb |
 | SUIJI Reddit 周报制度 v0.1 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/B4CZdXIUcoEJgrxStVccUvAAn9g |
 | SUIJI Reddit Skill 修改方案 v0.1 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/NOmbdbdZ6oufu6xvhltcHld3ncg |
-| SUIJI Reddit 知识库索引 v0.1 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/L7T7dj4GuoHYUvxesNScUlzMnjh |
+| SUIJI Reddit 知识库索引 v0.1 社区复核版 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/WZHGdsrTooZl0PxUx4AcHjc9nHe |
 | SUIJI Reddit 运营知识库说明 v0.1 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/SpXadZdKzoIfc2xltigc6NTbnVd |
 | 模块化首饰垂直 Subreddit 调研 v0.1 复核版 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/RdSPdYbFLoWIKKxbyoEc91BQneh |
 | SUIJI Reddit 高赞内容结构库索引 v0.1 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/FkridSvKso3tqWxW33bc66tcn3f |
