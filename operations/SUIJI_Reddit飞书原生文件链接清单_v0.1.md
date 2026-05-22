@@ -12,7 +12,7 @@
 |---|---|---|
 | SUIJI Reddit 运营系统索引 v0.1 最新版 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/SjTvd4gt9oJOrExQVTtcxvD2nef |
 | SUIJI Reddit 团队运营 SOP v0.1 最新版 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/Vus3dWGKRoc2PpxgY96c451Hn2g |
-| SUIJI Reddit Subreddit 社区运营手册 v0.1 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/AOxgdLETcowSOIxlOrVco8Tynqp |
+| SUIJI Reddit Subreddit 社区运营手册 v0.1 完整规则版 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/FJRPdggqwoAwYLxqSoScWjAvndf |
 | Reddit运营中文手册-基于Masters-in-Marketing | Docx | https://f0ldzvcs4a2.feishu.cn/docx/Bem5dX2pwo8dkGxivVBccIhTneO |
 | SUIJI Reddit 运营 SOP v0.1 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/S1hzdecbOo5mlHx01Bnc1VpmnTs |
 | SUIJI Reddit 每日运营制度 v0.1 | Docx | https://f0ldzvcs4a2.feishu.cn/docx/HLOYdCmbQoyIVdxdQ13cNf1Dnfb |
