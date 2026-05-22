@@ -55,7 +55,7 @@ GitHub 存档：
 
 当前飞书原生文件链接清单：https://f0ldzvcs4a2.feishu.cn/docx/VjPgdAkhPov2Bwxr1NjcTkbXnRe
 
-Subreddit 社区运营手册 v0.2 复核版：https://f0ldzvcs4a2.feishu.cn/docx/F0o3dGCYzoFLlwxi1VEcEYrjn6d
+Subreddit 社区运营手册当前版（用户已手动更新）：https://f0ldzvcs4a2.feishu.cn/docx/F0o3dGCYzoFLlwxi1VEcEYrjn6d
 
 运营知识库社区复核版：https://f0ldzvcs4a2.feishu.cn/sheets/XG1HsqTFrhdTW7tEw0YcLdGJnTH
 
