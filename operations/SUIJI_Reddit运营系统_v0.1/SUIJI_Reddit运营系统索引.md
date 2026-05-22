@@ -44,7 +44,7 @@ SUIJI 现在已经有 Reddit 相关资料、社区库、首饰知识库、高赞
 - 周报制度：https://www.feishu.cn/file/TwDLbeQmfoeJr8xJUjkcHzzOn1f
 - Skill 修改方案：https://www.feishu.cn/file/ZWezbsUuAoJ5UVxjBiScO5wtniE
 - 运营工作台 Sheet：https://f0ldzvcs4a2.feishu.cn/sheets/Lsd1s6BA1hgz06tznJqcS8jJndd
-- 团队运营 SOP：本地 DOCX 已生成；飞书原生导入待重试。当前失败原因是 Feishu 上传接口网络中断/TLS handshake timeout，不是文档内容问题。
+- 团队运营 SOP Docx：https://f0ldzvcs4a2.feishu.cn/docx/Q7B4dRZThoq5SGxzYMGcStYCnyh
 
 ## 和旧知识库的关系
 
