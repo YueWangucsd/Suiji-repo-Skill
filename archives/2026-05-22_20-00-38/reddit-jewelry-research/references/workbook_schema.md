@@ -246,37 +246,6 @@ Include:
 
 Use daily rising to identify posts worth quick review or same-day public reply. Do not replace weekly strategic reports with daily rising data.
 
-## Daily Operations Workbook
-
-Use this workbook when the output mode is `daily_ops` or `seed_ops_daily`.
-
-Required sheets:
-
-- `使用说明`
-- `今日优先队列`
-- `普通社区参与任务`
-- `专家任务`
-- `团队打卡`
-- `种子用户CRM`
-- `知识库回写`
-- `风险记录`
-- `字段说明`
-
-Purpose:
-
-- Convert daily Reddit listening into a human-executable team workflow.
-- Keep AI-generated candidate queues separate from human action logs.
-- Preserve expert tasks, seed-user candidates, and knowledge-backlog items.
-
-Do not include voting tasks. Do not use `养号`, `刷 karma`, or `account warming` as user-facing task language.
-
-`今日优先队列` should sort:
-
-1. qualified `rising` posts
-2. highly relevant low-risk `new` posts
-3. `top_week学习` items for structure learning only
-4. manual additions
-
 ## Column Guide Requirements
 
 The `Column Guide` sheet is mandatory because the workbook contains many columns.

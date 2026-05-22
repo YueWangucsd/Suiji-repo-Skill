@@ -1,6 +1,6 @@
 ---
 name: reddit-jewelry-research
-description: Use this skill for SUIJI Reddit research and operations: weekly Reddit research reports, daily team operations queues, subreddit discovery, seed-user discovery, reply strategy, team daily check-in/KPI workflows, Feishu-ready SOP/docs/sheets, product-design pain triage, subreddit size/activity context, and Excel/Feishu Sheet post intelligence workbooks. The default brand/product context is SUIJI, a demi-fine modular jewelry brand using Grade 5 titanium alloy and a fast Core-Lock detachable structure. Research should prioritize broad jewelry pain points and treat modular or convertible jewelry as a secondary opportunity lens. Use this skill whenever the user asks for SUIJI Reddit reports, Reddit automation, Daily Rising, daily Reddit operations, seed-user incubation, team Reddit operations SOP, Feishu delivery, product design team triage, subreddit member/activity metadata, or long-term Reddit post tracking.
+description: Use this skill for SUIJI Reddit research and operations: weekly or daily Reddit pain-point research, subreddit discovery, seed-user discovery, reply strategy, team daily check-in/KPI workflows, Feishu-ready reports, product-design pain triage, subreddit size/activity context, and Excel/Feishu Sheet post intelligence workbooks. The default brand/product context is SUIJI, a demi-fine modular jewelry brand using Grade 5 titanium alloy and a fast Core-Lock detachable structure. Research should prioritize broad jewelry pain points and treat modular or convertible jewelry as a secondary opportunity lens. Use this skill whenever the user asks for SUIJI Reddit reports, Reddit automation, Daily Rising, seed-user incubation, team Reddit operations SOP, Feishu delivery, product design team triage, subreddit member/activity metadata, or long-term Reddit post tracking.
 ---
 
 # Reddit Jewelry Research
@@ -11,7 +11,7 @@ Do not repeatedly ask what the product is. Load `references/product_context.md` 
 
 ## Skill Relationship
 
-`reddit-jewelry-research` is the main active SUIJI Reddit skill. It owns Feishu delivery, recurring runs, workbooks, weekly research, Daily Rising, daily team operations, reply assignments, team check-ins, KPI tracking, and seed-user operations.
+`reddit-jewelry-research` is the main active SUIJI Reddit skill. It owns Feishu delivery, recurring runs, workbooks, Daily Rising, reply assignments, team check-ins, KPI tracking, and seed-user operations.
 
 `reddit-jewelry-insights` is the older broad research skill. Use it only as historical reference for research framing unless the user explicitly asks to inspect or compare the old skill.
 
@@ -58,19 +58,17 @@ Do not delete local working artifacts until the Feishu version has passed the co
 
 Keep this section in the main skill, not only in references. Every run must satisfy it before the final response.
 
-1. Identify the output mode: `ops_system`, `weekly`, `daily_ops`, `daily_rising`, `seed_ops_daily`, `reply_assignment_2day`, `weekly_ops_review`, `team_checkin`, or `reply_pack`.
+1. Identify the output mode: `weekly`, `daily_rising`, `seed_ops_daily`, `reply_assignment_2day`, `weekly_ops_review`, `team_checkin`, or `reply_pack`.
 2. Use the default SUIJI product context without asking again unless the user changes the product.
 3. Run collection in stages: canary, core batch, then extended batch only when healthy.
 4. Use Reddit links as references for every insight or reply recommendation.
 5. Preserve collection limits and failures. Do not invent insights when data is thin.
 6. Generate Feishu-ready outputs and verify Feishu/local consistency when Feishu is available.
 7. Weekly outputs must include the broad pain report, modular opportunity report, weekly workbook, and master database update.
-8. Weekly outputs must preserve the research layer: customer pain insights, modular opportunity, content/community patterns, and evidence-backed recommendations. Do not replace weekly research with only team KPI reporting.
-9. The every-2-days output is a concise reply assignment table, not a product/operations split. It must include only `待回复`, `已处理`, and `字段说明`.
-10. Daily Rising, daily operations, and every-2-days reply assignment outputs must make reply priority explicit: handle qualified `rising` posts before ordinary `new` posts; high-risk or rule-unclear posts go to manual review instead of public reply.
-11. Daily operations outputs must distinguish AI-generated candidate queues from human action logs. Do not imply that AI posted, commented, voted, or messaged on Reddit.
-12. Do not use "account warming" or "养号" as a task label. Use `普通社区参与任务` or `community participation` because the goal is authentic participation, not karma manipulation.
-13. Never recommend hard selling, fake-user framing, mass DM, coordinated voting, medical advice, or absolute claims such as `100% no allergy`.
+8. The every-2-days output is a concise reply assignment table, not a product/operations split. It must include only `待回复`, `已处理`, and `字段说明`.
+9. Daily Rising and every-2-days reply assignment outputs must make reply priority explicit: handle qualified `rising` posts before ordinary `new` posts; high-risk or rule-unclear posts go to manual review instead of public reply.
+10. Seed-user operations outputs must distinguish AI-generated candidate queues from human action logs. Do not imply that AI posted, commented, voted, or messaged on Reddit.
+11. Never recommend hard selling, fake-user framing, mass DM, coordinated voting, medical advice, or absolute claims such as `100% no allergy`.
 
 ## Workbook UX Contract
 
@@ -276,10 +274,8 @@ Minimum useful thresholds:
 Use one of these modes:
 
 - `weekly`: strategic weekly insight package. Outputs broad pain report, modular opportunity report, weekly snapshot post intelligence workbook, cumulative master post database update when available, subreddit size/activity metadata when available, rules data, raw JSON, Feishu links, and Feishu/local consistency verification status.
-- `ops_system`: operating system setup package. Outputs SUIJI Reddit Operations SOP, daily operations guide, weekly report system, operations workbook template, skill-change summary, Feishu index, and local/Feishu delivery status.
-- `daily_ops`: daily team operations package. Outputs today's priority queue, community participation tasks, expert tasks, team check-in, risk records, seed-user CRM updates, knowledge-backlog prompts, Feishu Sheet delivery, and consistency status when available.
 - `daily_rising`: operational monitoring package. Outputs a separate Daily Rising workbook focused on posts to review or reply to today, product-design-flagged rising posts when present, plus Feishu Sheet delivery and consistency verification status when available.
-- `seed_ops_daily`: backward-compatible alias for `daily_ops`. Use community participation language; do not use account-warming or karma-growth framing.
+- `seed_ops_daily`: team daily operations package. Outputs a concise candidate queue for today's manual Reddit participation, account-warming tasks, expert-reply candidates, rule checks, suggested non-promotional reply angles, and a Feishu-compatible check-in sheet.
 - `reply_assignment_2day`: every-2-days execution package. Reuses recent collected data when possible. Outputs one concise reply assignment workbook named `SUIJI Reddit 回复分配表 YYYY-MM-DD` with only `待回复`, `已处理`, and `字段说明`. It should not rerun the full weekly collection unless the available data is stale or missing.
 - `weekly_ops_review`: weekly operations review package. Outputs team KPI summary, pain-point learning summary, seed-user funnel status, subreddit performance, account health risks, and next-week assignments.
 - `team_checkin`: creates or updates a Feishu/local check-in table for human Reddit work logs without scraping a new Reddit dataset.
@@ -302,59 +298,6 @@ When producing reply drafts, combine these in order:
 3. High-vote comment structure patterns.
 4. Expert input style, if available.
 5. A transparent non-promotional final draft.
-
-Every daily or weekly output should include a `Knowledge Backlog` section when useful:
-
-- New pain point -> `SUIJI_Reddit运营知识库_v0.1 / 首饰知识卡` or `Reddit 证据库`
-- New subreddit or rule signal -> `Subreddit 社区库`
-- New high-performing post/comment pattern -> `SUIJI_Reddit高赞内容结构库_v0.1`
-- Expert phrasing or factual judgment -> `专家输入区`
-- Risk or moderation issue -> operations system `风险记录`
-- Seed-user candidate -> operations system `种子用户CRM`
-
-## Operations System Contract
-
-Use `ops_system` when the user asks to build, organize, or revise the Reddit operating system, SOP, team tracker, KPI workflow, or skill plan.
-
-Default local folder:
-
-- `SUIJI_Reddit运营系统_v0.1`
-
-Required files:
-
-- `SUIJI_Reddit运营系统索引.md`
-- `SUIJI_Reddit运营SOP_v0.1.md`
-- `SUIJI_Reddit每日运营制度_v0.1.md`
-- `SUIJI_Reddit周报制度_v0.1.md`
-- `SUIJI_Reddit_skill修改方案_v0.1.md`
-- `SUIJI_Reddit运营工作台_v0.1.xlsx`
-
-Preferred Feishu structure:
-
-- Create a separate folder named `SUIJI Reddit 运营系统 v0.1` under `Suiji` or `Suiji/Reddit` if permissions allow.
-- If folder creation is forbidden, import the files into `Suiji/Reddit` with the prefix `SUIJI Reddit 运营系统 v0.1` and report the permission blocker.
-
-The operations workbook should contain:
-
-- `使用说明`
-- `今日优先队列`
-- `团队打卡`
-- `专家任务`
-- `种子用户CRM`
-- `周报输入`
-- `KPI定义`
-- `成员分工`
-- `Subreddit分配`
-- `风险记录`
-- `知识库回写`
-- `字段说明`
-
-Default team model:
-
-- 1 jewelry expert: professional jewelry/material/comfort/structure replies and knowledge cards.
-- 5 general members: authentic community participation in personally relevant subreddits.
-- 1 operations lead/founder: assignment, risk review, CRM, weekly review.
-- Codex/AI: listening, scoring, drafting, workbooks, reports, and risk reminders.
 
 ## Output Modes
 
@@ -384,9 +327,6 @@ Output:
 - 高价值帖子清单
 - 种子用户/可互动对象
 - 规则感知回复策略
-- 高互动内容/评论结构变化
-- 下周运营优先级
-- 知识库回写清单
 - 下周抓取和验证计划
 - 附录：Excel workbook, raw data, rules data
 
@@ -499,7 +439,7 @@ Implementation notes:
 - Pass `--master path/to/master.xlsx` when available so the `已处理` sheet can prevent duplicate replies.
 - Sync filled fields back with `scripts/sync_reply_assignment_to_master.py --assignment path/to/reply_assignment.xlsx --master path/to/master.xlsx --output path/to/updated_master.xlsx`.
 
-### Daily Ops / Community Participation Workbook
+### Seed Ops Daily Workbook
 
 Use for the team's daily manual Reddit participation. Output as `.xlsx` and import to Feishu Sheet when delivery is available.
 
@@ -510,12 +450,9 @@ Filename/title:
 Required sheets:
 
 - `今日优先队列`: posts/comments humans should review today, sorted by `rising` before ordinary `new`.
-- `普通社区参与任务`: low-risk non-product participation prompts for team members' personally relevant subreddits. Do not assign voting tasks.
+- `普通养号任务`: low-risk non-product participation prompts for team members' personally relevant subreddits. Do not assign voting tasks.
 - `专家任务`: jewelry expert candidates that need material, comfort, structure, durability, or styling expertise.
 - `团队打卡`: human-filled action log.
-- `种子用户CRM`: candidates for later public follow-up, feedback request, or interview only when appropriate.
-- `知识库回写`: new pain points, expert facts, high-vote structures, community rules, and risk cases to add to the knowledge bases.
-- `风险记录`: moderation, medical-boundary, promotion, or identity-disclosure risks.
 - `字段说明`: definitions, allowed values, and risk reminders.
 
 `今日优先队列` columns:
@@ -560,7 +497,6 @@ Daily KPI summary:
 - seed-user candidates found
 - new pain points captured
 - rule/risk incidents
-- knowledge-backlog items created
 
 Do not score success by raw comment count only. Prefer useful, rule-safe, human conversations.
 
@@ -614,7 +550,6 @@ Output:
 - Do not pretend to be a customer.
 - Do not recommend coordinated voting, purchased karma, vote exchange, or automated account warming.
 - Do not automate Reddit posting, commenting, voting, messaging, or account creation.
-- Do not frame authentic community participation as "karma farming", "account warming", or "养号" in user-facing team tasks.
 - Do not overclaim "no allergy." Prefer "Grade 5 titanium is commonly used for body-friendly, low-sensitivity applications" or similar careful wording.
 - Use "designer/founder/researcher asking for feedback" framing when appropriate.
 - Always include references to the Reddit posts used for analysis.

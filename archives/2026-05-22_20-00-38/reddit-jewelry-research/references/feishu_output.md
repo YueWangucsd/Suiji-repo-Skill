@@ -32,7 +32,6 @@ Default structure:
 - Main folder: `Suiji`
 - Working folder: `Suiji/Reddit`
 - Backup folder: `Suiji/Reddit/原始文件备份`
-- Operations system folder, when folder creation permission is available: `Suiji/Reddit/SUIJI Reddit 运营系统 v0.1`
 
 Known folder tokens from the initial setup:
 
@@ -58,21 +57,6 @@ For each successful daily run:
 2. Update or create the Feishu index document with the newest Daily Rising link.
 3. Upload the original `.xlsx` backup when useful.
 
-For each successful daily operations run:
-
-1. Import `SUIJI Reddit 每日运营打卡 YYYY-MM-DD.xlsx` as a Feishu Sheet.
-2. The editable Feishu Sheet should include `今日优先队列`, `普通社区参与任务`, `专家任务`, `团队打卡`, `种子用户CRM`, `知识库回写`, `风险记录`, and `字段说明`.
-3. Update or create the Feishu index document with the newest daily operations link.
-4. Upload the original `.xlsx` backup when useful.
-
-For an operations system setup run:
-
-1. Prefer creating a separate folder named `SUIJI Reddit 运营系统 v0.1` under `Suiji/Reddit`.
-2. If folder creation is forbidden, import the files into `Suiji/Reddit` with the prefix `SUIJI Reddit 运营系统 v0.1` and report the permission blocker.
-3. Import the SOP, daily guide, weekly report guide, and skill-change plan as Markdown documents.
-4. Import `SUIJI_Reddit运营工作台_v0.1.xlsx` as a Feishu Sheet.
-5. Create or update a local/Feishu index document linking all system files.
-
 For each successful every-2-days reply assignment run:
 
 1. Import `SUIJI Reddit 回复分配表 YYYY-MM-DD.xlsx` as a Feishu Sheet.
@@ -90,7 +74,7 @@ The workflow may generate reports and workbooks locally first, but Feishu is the
 For every successful weekly or daily run, create a small run manifest in local staging before cleanup. The manifest should include:
 
 - run date and time
-- mode: `ops_system`, `weekly`, `daily_ops`, `daily_rising`, or `reply_assignment_2day`
+- mode: `weekly`, `daily_rising`, or `reply_assignment_2day`
 - local source file paths
 - source file sizes and, when practical, SHA-256 hashes
 - expected sheet names
@@ -140,9 +124,7 @@ Recommended mapping:
 |---|---|---|
 | Weekly post intelligence `.xlsx` | Feishu Sheet | `.xlsx` file upload |
 | Daily Rising `.xlsx` | Feishu Sheet | `.xlsx` file upload |
-| Daily operations `.xlsx` | Feishu Sheet | `.xlsx` file upload |
 | Reply assignment `.xlsx` | Feishu Sheet | `.xlsx` file upload |
-| Operations SOP `.md` | Feishu Markdown/Doc | `.md` file upload |
 | Weekly report `.docx` | Feishu Docx | `.docx` file upload |
 | Modular opportunity report `.docx` | Feishu Docx | `.docx` file upload |
 | Skill intro `.docx` | Feishu Docx | `.docx` file upload |

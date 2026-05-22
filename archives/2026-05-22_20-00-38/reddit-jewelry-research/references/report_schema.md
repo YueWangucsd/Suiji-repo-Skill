@@ -236,20 +236,6 @@ Include:
 
 Daily rising output is operational and should not be treated as a full strategic insight report.
 
-## Weekly Operations Bridge
-
-Every weekly research report should include a short operations bridge so the research becomes next week's execution input.
-
-Required subsections:
-
-- `下周运营优先级`: which subreddits, pain clusters, and post types should receive attention next week.
-- `高互动内容结构`: reusable post/comment structures observed this week, with links when available.
-- `种子用户候选`: users or threads worth continued public follow-up, with risk notes.
-- `专家任务输入`: topics the jewelry expert should turn into knowledge cards or public reply guidance.
-- `知识库回写清单`: new pain points, community rules, high-vote structures, expert phrasing, and risk cases to add to the relevant SUIJI knowledge bases.
-
-Do not let operations metrics replace research findings. The weekly report should still lead with user pain, product implications, modular opportunity, and evidence quality.
-
 ## 11. 附录
 
 Include:
