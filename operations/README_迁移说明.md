@@ -53,8 +53,10 @@ GitHub 存档：
 
 团队版 SOP 的 DOCX 已成功导入当前飞书账号，当前最新版链接为：https://f0ldzvcs4a2.feishu.cn/docx/Vus3dWGKRoc2PpxgY96c451Hn2g
 
-当前飞书原生文件链接清单：https://f0ldzvcs4a2.feishu.cn/docx/OpRGdlTulo3LcRxbnfOcBfeNn7A
+当前飞书原生文件链接清单：https://f0ldzvcs4a2.feishu.cn/docx/VjPgdAkhPov2Bwxr1NjcTkbXnRe
 
-Subreddit 社区运营手册双语规则并排版：https://f0ldzvcs4a2.feishu.cn/docx/IH4zdEUrDoJFf1xJ895cp4finhd
+Subreddit 社区运营手册 v0.2 复核版：https://f0ldzvcs4a2.feishu.cn/docx/F0o3dGCYzoFLlwxi1VEcEYrjn6d
+
+运营知识库社区复核版：https://f0ldzvcs4a2.feishu.cn/sheets/XG1HsqTFrhdTW7tEw0YcLdGJnTH
 
 迁移到其他飞书账号时，这个链接不能直接复用为目标账号文件；仍需在目标账号中重新导入 DOCX 并替换索引链接。

@@ -1,603 +1,431 @@
-# SUIJI Reddit Subreddit 社区运营手册 v0.1
+# SUIJI Reddit Subreddit 社区运营手册 v0.2
 
-更新日期：2026-05-22
+更新日期：2026-05-23
 
-## 1. 这份文档怎么用
+## 1. 本次复核结论
 
-这份手册是团队进入 Reddit 社区前的预读文件。它解决四件事：哪些社区优先看、为什么优先、进入前要避开什么规则风险、不同社区用什么语言才不像外来者。
+本版重新核查了社区定位、公开描述、规则和 SUIJI 可参与程度。明显不相关、重复或不适合当前阶段发帖/评论的社区已从当前运营清单移除；仍有研究价值但不适合主动参与的社区被标为只读观察。
 
-重要边界：本手册只用于人工运营判断。Codex/AI 可以帮助监听、筛选、总结、起草和记录，但不能替团队发帖、评论、投票、私信或创建账号。
+关键修正：`r/Pandora` 不是 Pandora 首饰社区，而是 Pandora Radio 社区，已删除；Pandora 首饰相关保留的是 `r/PandoraCollectors`。
 
-## 2. 社区优先选择标准
+## 2. 当前社区分层
 
-不要一上来只去几十万、上百万成员的大 subreddit。大社区每分钟都有很多新帖，内容很快被冲下去，规则更复杂，外来者痕迹也更容易被识别。
+### 高优先级：日常/隔日重点监控
 
-早期优先找中型、垂直、讨论质量高的社区，尤其是：
+`r/Earrings`、`r/jewelrymaking`、`r/BusinessFashion`、`r/HerOneBag`、`r/capsulewardrobe`、`r/Moissanite`、`r/SyntheticGemstones`、`r/Benchjewelers`。
 
-- 成员数约 5w-10w，或虽然更小但专业密度高。
-- 在线人数比例或近期讨论热度较高。
-- 规则清楚，允许真实、非广告、帮助型参与。
-- 与目标用户场景高度相关：耳饰、敏感耳、通勤、旅行、胶囊衣橱、定制、工艺、耐用。
-- 非纯广告导向，用户愿意认真回复和讨论。
-- 能让我们积累痛点、表达方式和种子用户，而不是只追求曝光。
+这些社区和耳饰、工艺、通勤、旅行、胶囊衣橱、定制、维修高度相关，是当前最值得投入的社区。
+
+### 中高优先级：持续监控，但回复更谨慎
+
+`r/jewelry`、`r/piercing`、`r/PiercingAdvice`。
+
+它们与首饰、敏感耳、材质和佩戴舒适度高度相关，但竞争、医疗和规则风险更高。
+
+### 中优先级：每周观察、专家输入和概念验证
+
+`r/jewelers`、`r/JewelryDesign`、`r/jewelryCAD`、`r/fashionwomens35`、`r/PetiteFashionAdvice`、`r/Weddingattireapproval`、`r/Beading`、`r/PandoraCollectors`。
+
+这些社区有明确研究价值，但不一定适合日常主动运营。
+
+### 只读观察：不作为早期主运营社区
+
+`r/BuyItForLife`、`r/OUTFITS`、`r/minimalism`、`r/onebag`、`r/metalsmithing`、`r/SilverSmith`、`r/WireWrapping`。
+
+这类社区主要用于学习语言和趋势，早期不建议密集评论或发帖。
+
+### 已删除/暂不纳入当前运营
+
+- `r/Pandora`：删除。公开描述为 Everything related to Pandora Radio，是 Pandora Radio 音乐服务社区，不是 Pandora jewelry。规则为 lorem ipsum 占位文本，和 SUIJI 产品无关。
+- `r/silversmith`：删除。与 r/SilverSmith 是大小写重复社区，保留 r/SilverSmith 作为唯一入口。
+- `r/femalefashionadvice`：暂不纳入当前运营。超大社区，明确禁止 marketing/market research；可偶尔只读学习时尚语言，但不作为 SUIJI 运营社区。
+- `r/WitchesVsPatriarchy`：暂不纳入当前运营。社区主题是女性/女巫/反父权安全空间，文化语境强，SUIJI 产品评论容易像外来营销。
+- `r/cottagecore`：暂不纳入当前运营。审美相关但首饰/模块化相关性弱，且禁止自推；可作为风格灵感，不进运营队列。
+- `r/oldhagfashion`：暂不纳入当前运营。个性穿搭文化强，适合远期风格学习，不适合早期 SUIJI 产品进入。
+- `r/Stretched`：暂不纳入当前运营。扩耳/身体改造语境，明确 no jewelry selling，医疗/安全风险高，与 SUIJI 主产品场景偏离。
 
 ## 3. 当前优先级总览
 
-| 优先级 | 社区 | 为什么 | 主要动作 |
-|---|---|---|---|
-| 高 | r/Earrings | 耳饰垂直、痛点集中，适合敏感耳/重量/搭配/日常佩戴讨论。规模不大但相关性极高。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 高 | r/jewelrymaking | 工艺和结构讨论密集，适合验证 Core-Lock、可拆结构、维修和耐用性担忧。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 高 | r/BusinessFashion | 职场穿搭和通勤场景强，适合观察低调、可靠、不过度张扬的首饰需求。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 高 | r/HerOneBag | 旅行轻量打包场景和模块化价值高度贴合，用户愿意认真讨论取舍。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 高 | r/capsulewardrobe | 少而精、可复用、场景切换和搭配效率与模块化首饰天然相关。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 高 | r/Moissanite | 定制/宝石/供应商讨论成熟，能观察用户如何表达定制、转换、耐用、预算和审美。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 高 | r/SyntheticGemstones | 小而专业，适合调研定制和结构可行性，讨论质量高。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 高 | r/Benchjewelers | 专业维修视角能直接暴露可拆结构的返修、松动、耐久和 gimmick 风险。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 中高 | r/jewelry | 首饰综合大池子，适合观察趋势和痛点，但竞争较大，评论要更快更具体。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 中高 | r/piercing | 敏感耳、材质、舒适度强相关，但医疗/感染风险高，评论要谨慎。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 中高 | r/PiercingAdvice | 问题明确，适合观察材质/敏感/佩戴痛点，但不适合产品推广。 | 每日/隔日监控，优先 rising/new，低风险时人工回复。 |
-| 中 | r/jewelers | 专业边界和 claim 校准价值高，但需要证据和专业语言。 | 每周监控，适合专家或概念验证。 |
-| 中 | r/JewelryDesign | 适合审美/设计反馈，但社区规模小，活跃度波动较大。 | 每周监控，适合专家或概念验证。 |
-| 中 | r/jewelryCAD | 极垂直结构打样社区，适合小规模专业验证。 | 每周监控，适合专家或概念验证。 |
-| 中 | r/fashionwomens35 | 35+ 女性穿搭场景好，但首饰不是唯一主题，需要自然切入。 | 每周监控，适合专家或概念验证。 |
-| 中 | r/PetiteFashionAdvice | 体型/比例/轻量首饰相关，但主题偏穿搭，不能硬转产品。 | 每周监控，适合专家或概念验证。 |
-| 中 | r/Weddingattireapproval | 场景明确，适合观察首饰搭配决策，但多为单次事件。 | 每周监控，适合专家或概念验证。 |
-| 观察 | r/BuyItForLife | 耐用/质量语言很有价值，但商业和推荐风险高，进入要慢。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/OUTFITS | 流量大但节奏快，适合学习搭配语言，不是早期主阵地。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/femalefashionadvice | 超大社区，规则和文化复杂，不适合一开始重投。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/minimalism | 理念相关但首饰相关度不稳定，适合观察少而精价值观。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/onebag | 旅行轻量理念相关，但偏装备，首饰切入要非常克制。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/metalsmithing | 根据相关性和风险综合判断。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/silversmith | 根据相关性和风险综合判断。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/WitchesVsPatriarchy | 根据相关性和风险综合判断。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/cottagecore | 根据相关性和风险综合判断。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/oldhagfashion | 根据相关性和风险综合判断。 | 观察学习为主，暂不作为早期主阵地。 |
-| 中 | r/Beading | DIY 组装和配件组合相关，适合观察用户如何理解可替换组件和个性化。 | 每周监控，适合专家或概念验证。 |
-| 中 | r/Pandora | 品牌/串饰社区能观察模块化饰品的用户语言，但品牌边界强，不适合提 SUIJI。 | 每周监控，适合专家或概念验证。 |
-| 中 | r/PandoraCollectors | 模块化串饰和收藏逻辑相关，适合学习用户如何谈论可替换、组合、主题和配件生态。 | 每周监控，适合专家或概念验证。 |
-| 观察 | r/SilverSmith | 专业金工视角可用于材料和结构学习，早期不作为主运营社区。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/Stretched | 穿孔首饰材质/舒适度相关，但医疗和身体改造语境强，先观察不主动运营。 | 观察学习为主，暂不作为早期主阵地。 |
-| 观察 | r/WireWrapping | 手工结构和材料语言有价值，但与 SUIJI 成品用户重合度较低。 | 观察学习为主，暂不作为早期主阵地。 |
+| 优先级 | 社区 | 状态 | 为什么 | 可做什么 | 主要风险 |
+|---|---|---|---|---|---|
+| 高 | r/Earrings | 保留-重点运营 | 耳饰垂直、痛点集中，适合敏感耳、重量、背扣、日常佩戴和搭配讨论。 | 可以做帮助型评论；发帖需保持耳饰主题，不提销售。 | 禁止感染问题，不能医疗化。 |
+| 高 | r/jewelrymaking | 保留-重点运营 | 工艺和结构讨论密集，适合验证 Core-Lock、可拆结构、维修和耐用性担忧。 | 可以技术讨论、请教结构风险；不能自推商店或产品。 | 自我推广限制强，外行营销语会被识别。 |
+| 高 | r/BusinessFashion | 保留-重点运营 | 通勤、会议、商务休闲场景强，适合观察低调、可靠、不过度张扬的首饰需求。 | 可以作为穿搭建议参与；不要放品牌、链接或广告。 | 广告永久封禁风险，评论要像真实穿搭建议。 |
+| 高 | r/HerOneBag | 保留-重点运营 | 旅行轻量打包与模块化、多用途、day-to-night 场景高度贴合。 | 可以讨论旅行首饰取舍、收纳、少带多用；不要做市场调研或自推。 | 规则强调 genuine resources，不要 chase clout。 |
+| 高 | r/capsulewardrobe | 保留-重点运营 | 少而精、复用、成本/穿戴次数、场景切换与模块化首饰天然相关。 | 可以讨论搭配策略、少量高频首饰、胶囊配饰。 | 禁止 affiliate、sponsored、subscriber farming 和 AI 内容。 |
+| 高 | r/Moissanite | 保留-重点运营 | 定制、CAD、供应商、戒指/吊坠等讨论成熟，能学习用户如何谈定制和耐用。 | 可以观察和讨论设计/定制决策；不要提自家产品或供应商推广。 | 禁止 vendor posting、广告、复刻、低质量帖。 |
+| 高 | r/SyntheticGemstones | 保留-重点运营 | 小而专业，适合调研定制、宝石配置、CAD、结构可行性。 | 可以学习定制语言和谨慎参与专业讨论。 | 专业度要求高，不可伪装专家或商家。 |
+| 高 | r/Benchjewelers | 保留-重点研究 | 最适合听专业维修视角，验证可拆结构是否容易松动、返修、被视为 gimmick。 | 适合研究和非常谨慎的请教；不建议品牌发帖。 | 接口未取到规则，小社区隐性规范强。 |
+| 中高 | r/jewelry | 保留-谨慎运营 | 首饰痛点大池子，能观察材质、掉色、质量、品牌经验和搭配问题。 | 可以帮助型知识评论；品牌/vendor 需遵守 vendor guide。 | 大社区竞争高，禁止估价、鉴定、石头识别、假货/复刻。 |
+| 中高 | r/piercing | 保留-痛点观察 | 敏感耳、材质、舒适度强相关。 | 主要观察；若评论只能给安全边界和建议找专业 piercer/doctor。 | 禁止销售/广告/研究/自推，医疗风险很高。 |
+| 中高 | r/PiercingAdvice | 保留-痛点观察 | 问题明确，适合观察敏感、材质、佩戴不适。 | 不建议产品回复；最多做安全边界型普通建议。 | 接口未取到规则，医疗和感染风险高。 |
+| 中 | r/jewelers | 保留-专家研究 | 适合校准 claim、维修、售后、行业语言。 | 可用专家身份谨慎请教；不能招揽、估价、鉴定或自推。 | 有 karma 门槛和 no solicitation。 |
+| 中 | r/JewelryDesign | 保留-概念验证 | 适合审美、比例、设计反馈。 | 可观察设计语言；发概念图前要人工复核规则。 | 接口未取到规则；简介写 No self-promotions。 |
+| 中 | r/jewelryCAD | 保留-专家研究 | 极垂直，适合结构、公差、打样和 CAD 反馈。 | 可请教结构问题；不要市场营销。 | 接口未取到规则，小圈子专业语境强。 |
+| 中 | r/fashionwomens35 | 保留-场景观察 | 35+ 女性穿搭和高级感/舒适度/不过度用力相关。 | 可以普通穿搭建议；不要推广产品。 | 规则偏轻松友好但禁止 spam。 |
+| 中 | r/PetiteFashionAdvice | 保留-场景观察 | 首饰比例、视觉重量、不过度压个子等场景相关。 | 可以讨论比例和搭配；不要自推或 referral。 | 帖子必须 petite fashion 相关，需要 flair。 |
+| 中 | r/Weddingattireapproval | 保留-场景观察 | 场景明确，适合观察首饰搭配决策和礼仪边界。 | 可以给具体搭配建议；不要引导购买。 | 必须围绕 wedding attire，评论要 helpful。 |
+| 中 | r/Beading | 保留-结构语言研究 | DIY 组装、配件组合和可替换组件语言相关。 | 主要研究结构语言；不适合 SUIJI 成品营销。 | 禁止广告、销售、外部市场链接和侵权图案。 |
+| 中 | r/PandoraCollectors | 保留-模块化语言观察 | 确认是 Pandora charm bracelet/jewelry collectors，可观察模块化串饰、收藏、组合语言。 | 只观察或普通收藏语境参与；不要提 SUIJI。 | 品牌社区，不适合品牌对比或引流。 |
+| 观察 | r/BuyItForLife | 保留-只读观察 | 耐用、维修、长期价值语言有参考意义。 | 不建议主动提 SUIJI；只读为主。 | 超大社区，禁止广告，要求 BIFL 证据。 |
+| 观察 | r/OUTFITS | 保留-只读观察 | 可学习 outfit 反馈语言和搭配表达。 | 偶尔低风险搭配评论；不适合品牌发帖。 | 超大、规则严格，评论必须关于 outfit。 |
+| 观察 | r/minimalism | 保留-只读观察 | 少而精、低维护、反消费主义语境可参考。 | 只读为主；不适合产品营销。 | 禁止自推/广告和 AI 生成内容。 |
+| 观察 | r/onebag | 保留-只读观察 | 旅行轻量理念相关，但偏包袋装备。 | 只读旅行语言；若参与必须与 onebag 直接相关。 | 禁止广告、营销、研究帖；外部链接严格。 |
+| 观察 | r/metalsmithing | 保留-专家研究 | 工艺和金属结构学习有价值。 | 专家研究为主，发帖前人工复核。 | 接口未取到规则。 |
+| 观察 | r/SilverSmith | 保留-专家研究 | 材料、手工、维修语言有价值。 | 只做工艺学习；不要销售、自推或 commission。 | 禁止销售、自推和 commission 请求。 |
+| 观察 | r/WireWrapping | 保留-只读观察 | 手工结构和视觉反馈可参考，但与 SUIJI 精密快拆定位较远。 | 只读为主。 | 规则较弱，仍需人工复核。 |
 
 ## 4. 每个社区进入前必须看的信息
 
 ### r/Earrings｜耳饰垂直
 
 - 当前建议优先级：高
-- 社区人数：11.5K；活跃/热度参考：8.8K；本地热度档位：中
-- 规模判断：小社区，曝光小但语境密度高，进入前要更像内部成员。
-- 主要讨论：耳饰舒适度、敏感耳、日常耳饰、背扣
-- 为什么适合/不适合 SUIJI：耳饰垂直、痛点集中，适合敏感耳/重量/搭配/日常佩戴讨论。规模不大但相关性极高。
+- 当前状态：保留-重点运营
+- 社区人数：11.5K；类型：public
+- 社区定位核查：Dedicated to earrings!
+- 为什么保留：耳饰垂直、痛点集中，适合敏感耳、重量、背扣、日常佩戴和搭配讨论。
+- SUIJI 可参与方式：可以做帮助型评论；发帖需保持耳饰主题，不提销售。
+- 主要风险：禁止感染问题，不能医疗化。
 - 规则摘要：No Fakes!；No questions about infected ears；No giveaways；Earrings only；No sexism；No harassment or witch hunts
 - 中文规则摘要：禁止假货/仿品；禁止询问耳洞感染相关问题；禁止抽奖/赠品活动；仅限耳饰相关内容；禁止性别歧视；禁止骚扰或人肉/围攻
-- 规则对运营的影响：语气要克制、具体、非评判。
-- 进入方式：适合研究式提问，不要医疗化
-- 回复风险：中
-- 社区黑话/常见表达：sensitive ears、flat back、huggies、studs、hoops、post、backing、nickel-free、implant-grade titanium
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
-### r/jewelrymaking｜制作/工艺
+### r/jewelrymaking｜首饰制作/工艺
 
 - 当前建议优先级：高
-- 社区人数：173.6K；活跃/热度参考：59.5K；本地热度档位：中高
-- 主要讨论：结构、维修、材料、工艺
-- 为什么适合/不适合 SUIJI：工艺和结构讨论密集，适合验证 Core-Lock、可拆结构、维修和耐用性担忧。
+- 当前状态：保留-重点运营
+- 社区人数：173.6K；类型：public
+- 社区定位核查：A friendly community for sharing inspiration, ideas, and techniques about jewelry.
+- 为什么保留：工艺和结构讨论密集，适合验证 Core-Lock、可拆结构、维修和耐用性担忧。
+- SUIJI 可参与方式：可以技术讨论、请教结构风险；不能自推商店或产品。
+- 主要风险：自我推广限制强，外行营销语会被识别。
 - 规则摘要：Promotional content；Behavioral Guidelines；Content Guidelines；Title and Flair Guidelines
 - 中文规则摘要：推广内容限制；行为准则；内容准则；标题和标签规范
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 发帖要有高信息密度，避免泛泛求关注。
-- 进入方式：更适合技术细节和设计讨论
-- 回复风险：低-中
-- 社区黑话/常见表达：bench、solder、cast、finding、jump ring、clasp、tolerance、work hardening、prototype
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/BusinessFashion｜职场穿搭
 
 - 当前建议优先级：高
-- 社区人数：161.4K；活跃/热度参考：108.1K；本地热度档位：高热
-- 主要讨论：职场穿搭、商务休闲
-- 为什么适合/不适合 SUIJI：职场穿搭和通勤场景强，适合观察低调、可靠、不过度张扬的首饰需求。
-- 规则摘要：No spam；No advertisment；No NSFW content；No inapropriate messages；Be respectfull；LGBTQ+ inclusive community；No OnlyFans Or Similar ；No Gatekeeping 
-- 中文规则摘要：禁止垃圾信息；禁止广告；禁止成人/不适宜内容；禁止不当信息；保持尊重；LGBTQ+ 友好社区；禁止 OnlyFans 或类似内容；禁止排外/资格审查式发言
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。
-- 进入方式：适合软性场景问题
-- 回复风险：低-中
-- 社区黑话/常见表达：business casual、office appropriate、polished、understated、capsule、commute、meeting-friendly
+- 当前状态：保留-重点运营
+- 社区人数：161.4K；类型：public
+- 社区定位核查：A place to inspire you to look and feel your best at work. Share your photos or links to images and websites that motivate your style
+- 为什么保留：通勤、会议、商务休闲场景强，适合观察低调、可靠、不过度张扬的首饰需求。
+- SUIJI 可参与方式：可以作为穿搭建议参与；不要放品牌、链接或广告。
+- 主要风险：广告永久封禁风险，评论要像真实穿搭建议。
+- 规则摘要：No spam；No advertisment；No NSFW content；No inapropriate messages；Be respectfull；LGBTQ+ inclusive community；No OnlyFans Or Similar；No Gatekeeping；No age, gender, or sexual orientation in posts；No Shaming Certain Industries；Low Effort Images Not Allowed；No Controversial Subjects
+- 中文规则摘要：禁止垃圾信息；禁止广告；禁止成人/不适宜内容；禁止不当信息；保持尊重；LGBTQ+ 友好社区；禁止 OnlyFans 或类似内容；禁止排外/资格审查式发言；帖子中不要包含年龄、性别或性取向信息；禁止羞辱特定行业；禁止低质量/低投入图片；禁止争议性话题
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
-### r/HerOneBag｜女性旅行/轻量打包
+### r/HerOneBag｜女性轻量旅行
 
 - 当前建议优先级：高
-- 社区人数：164.2K；活跃/热度参考：183.8K；本地热度档位：高热
-- 主要讨论：女性旅行轻装、打包清单
-- 为什么适合/不适合 SUIJI：旅行轻量打包场景和模块化价值高度贴合，用户愿意认真讨论取舍。
+- 当前状态：保留-重点运营
+- 社区人数：164.2K；类型：public
+- 社区定位核查：Welcome to r/heronebag! We focus on one-bag and lightweight travel, and how to do it in style and comfort. While “her” is our origin, we’re a big tent: women, LGBTQ+ people, disabled people, and parents are central to our community. We value overlooked needs, like bringing skincare or extra comforts without judgment. Share your packing lists, gear reviews, and advice – let’s help each other travel lighter and smarter!
+- 为什么保留：旅行轻量打包与模块化、多用途、day-to-night 场景高度贴合。
+- SUIJI 可参与方式：可以讨论旅行首饰取舍、收纳、少带多用；不要做市场调研或自推。
+- 主要风险：规则强调 genuine resources，不要 chase clout。
 - 规则摘要：Be Kind and Assume Positive Intent；Give and Receive Feedback Generously；Post Quality Content；Stay Focused on One-Bag Travel；Share Genuine Resources, Don’t Chase Clout；Everyday Carry (EDC) Posts Must Support Lighter Travel；Please follow the posting guidelines
 - 中文规则摘要：友善沟通，并默认对方是善意的；慷慨地给出和接受反馈；发布高质量内容；保持内容聚焦于单包旅行；分享真实资源，不要蹭热度；EDC 内容必须服务于更轻便旅行；请遵守发帖指南
-- 规则对运营的影响：发帖要有高信息密度，避免泛泛求关注。
-- 进入方式：适合问实际打包取舍
-- 回复风险：低-中
-- 社区黑话/常见表达：one bag、capsule travel、sink laundry、carry-on only、packable、versatile、day-to-night
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/capsulewardrobe｜胶囊衣橱
 
 - 当前建议优先级：高
-- 社区人数：250.7K；活跃/热度参考：185.0K；本地热度档位：高热
-- 主要讨论：少而精衣橱、长期搭配
-- 为什么适合/不适合 SUIJI：少而精、可复用、场景切换和搭配效率与模块化首饰天然相关。
-- 规则摘要：No off topic, low-effort or spam content.；Hateful rhetoric, bullying and/or harassment is not allowed；No affiliate links, sponsored content, or subscriber/follower farming.；No Doxxing or calls for mobbing across communities；No Artificial Intelligence. ；No App Posts
+- 当前状态：保留-重点运营
+- 社区人数：250.7K；类型：public
+- 社区定位核查：Welcome to /r/capsulewardrobe - where redditors can come to get advice on starting, maintaining and utilizing a capsule wardrobe to their best advantage.
+- 为什么保留：少而精、复用、成本/穿戴次数、场景切换与模块化首饰天然相关。
+- SUIJI 可参与方式：可以讨论搭配策略、少量高频首饰、胶囊配饰。
+- 主要风险：禁止 affiliate、sponsored、subscriber farming 和 AI 内容。
+- 规则摘要：No off topic, low-effort or spam content.；Hateful rhetoric, bullying and/or harassment is not allowed；No affiliate links, sponsored content, or subscriber/follower farming.；No Doxxing or calls for mobbing across communities；No Artificial Intelligence.；No App Posts
 - 中文规则摘要：禁止跑题、低质量或垃圾内容；禁止仇恨言论、霸凌或骚扰；禁止联盟链接、赞助内容或引流涨粉；禁止人肉或跨社区动员围攻；禁止 AI 生成内容；禁止 App 推广/相关帖子
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。
-- 进入方式：避免刺激消费主义
-- 回复风险：低-中
-- 社区黑话/常见表达：capsule、cost per wear、versatile、uniform、one in one out、workhorse、mix and match
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/Moissanite｜莫桑石/定制购买
 
 - 当前建议优先级：高
-- 社区人数：147.1K；活跃/热度参考：未知；本地热度档位：待复核
-- 规模判断：接近理想中型垂直社区，适合优先试运营。
-- 主要讨论：定制戒指、吊坠、套装、供应商经验里会出现 ring-to-pendant、可替换主石、同一颗石头多场景使用的需求。
-- 为什么适合/不适合 SUIJI：定制/宝石/供应商讨论成熟，能观察用户如何表达定制、转换、耐用、预算和审美。
-- 规则摘要：Follow the Reddit Content Policy；Please read/research the sub before posting；No discussions surrounding exact replicas；Be civil to each other；No advertising/vendor posting；No valuation or "what is this" posts；Missing Content/Low Effort Post；No Stone Identification
-- 中文规则摘要：遵守 Reddit 内容政策；发帖前请先阅读和研究本社区；禁止讨论精确复刻/仿制品；互相文明交流；禁止广告或商家发帖；禁止估价或“这是什么”类帖子；缺少内容/低质量帖子；禁止宝石鉴定
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。 发帖要有高信息密度，避免泛泛求关注。
-- 进入方式：观察定制需求、拆解高赞评论、找 convertible jewelry 真实语言。
-- 回复风险：不要直接推产品；优先研究式提问和案例学习。
-- 社区黑话/常见表达：CAD check、vendor、stone check、DEF/GHI、brilliant cut、setting、custom
+- 当前状态：保留-重点运营
+- 社区人数：147.1K；类型：public
+- 社区定位核查：Welcome to our community! This is a subreddit dedicated to moissanite discussions, CAD reviews, design help, ring and jewelry sharing! If you are new, please read through the ‘quick reference guide for new subscribers’ pinned at the top of this sub. Also see our menu for reference materials and vendor recommendations. There is an extensive wiki. Use the search options to look up past projects, vendor reviews, design inspiration, or browse related subreddits for similar communities.
+- 为什么保留：定制、CAD、供应商、戒指/吊坠等讨论成熟，能学习用户如何谈定制和耐用。
+- SUIJI 可参与方式：可以观察和讨论设计/定制决策；不要提自家产品或供应商推广。
+- 主要风险：禁止 vendor posting、广告、复刻、低质量帖。
+- 规则摘要：Follow the Reddit Content Policy；Please read/research the sub before posting；No discussions surrounding exact replicas；Be civil to each other；No advertising/vendor posting；No valuation or "what is this" posts；Missing Content/Low Effort Post；No Stone Identification；No AI Posts；No "Has Anyone Tried this Vendor" Posts
+- 中文规则摘要：遵守 Reddit 内容政策；发帖前请先阅读和研究本社区；禁止讨论精确复刻/仿制品；互相文明交流；禁止广告或商家发帖；禁止估价或“这是什么”类帖子；缺少内容/低质量帖子；禁止宝石鉴定；禁止 AI 生成帖子；禁止“有人试过这个商家吗”类帖子
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/SyntheticGemstones｜合成宝石/定制宝石
 
 - 当前建议优先级：高
-- 社区人数：23.7K；活跃/热度参考：未知；本地热度档位：待复核
-- 主要讨论：用户常讨论定制、设计图、戒指/吊坠转换、实验性设计；比大众首饰社区更愿意讨论结构与宝石配置。
-- 为什么适合/不适合 SUIJI：小而专业，适合调研定制和结构可行性，讨论质量高。
+- 当前状态：保留-重点运营
+- 社区人数：23.7K；类型：public
+- 社区定位核查：Welcome! This is a subreddit dedicated to synthetic gemstone discussions, CAD reviews, lab gemstone evaluations, rings &amp; jewelry share! We have a list of approved small business vendors and lapidaries that can help you source or cut your precision gemstone. Please check the menu under ‘See More/Menu or Community Highlights’ Please read through our ‘New Start Guide’ pinned at the top of this sub. Check out our menu for FAQ and reference material. Gems for sale - see r/labdiamondgemstoneBST
+- 为什么保留：小而专业，适合调研定制、宝石配置、CAD、结构可行性。
+- SUIJI 可参与方式：可以学习定制语言和谨慎参与专业讨论。
+- 主要风险：专业度要求高，不可伪装专家或商家。
 - 规则摘要：We use an approved vendor list on this sub. Please see mods for consideration if you are a lapidary.；Be polite. This should be fun!；Follow Reddit Content Policy；Detailed spec and photo/video posts；No witch-hunting, call outs or shaming；No discussions about exact replicas；No Spam!
 - 中文规则摘要：本社区使用已批准商家名单；宝石切割/相关从业者需联系版主审核；保持礼貌，这里应该是轻松有趣的；Follow Reddit Content Policy（待人工翻译/复核）；帖子需包含详细参数和图片/视频；禁止围攻、点名批评或羞辱；No discussions about exact replicas（待人工翻译/复核）；禁止垃圾信息
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
-- 进入方式：调研定制用户如何判断设计可行性、预算、耐用性。
-- 回复风险：专业度要求高，回答必须具体且谨慎。
-- 社区黑话/常见表达：lab grown、synthetic、precision cut、rough、setting、custom design、CAD
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
-### r/Benchjewelers｜台面工/维修专业
+### r/Benchjewelers｜台面工/珠宝维修专业
 
 - 当前建议优先级：高
-- 社区人数：15.0K；活跃/热度参考：未知；本地热度档位：待复核
-- 规模判断：小社区，曝光小但语境密度高，进入前要更像内部成员。
-- 主要讨论：专业维修和台面工视角能检验可拆结构是否像 gimmick、是否容易返修、是否影响耐久。
-- 为什么适合/不适合 SUIJI：专业维修视角能直接暴露可拆结构的返修、松动、耐久和 gimmick 风险。
-- 规则摘要：规则接口未取到；运营前必须打开 subreddit 规则页人工复核。
+- 当前状态：保留-重点研究
+- 社区人数：15.0K；类型：public
+- 社区定位核查：Calling all bench grunts, hammer heads, stone setters and tool jockeys. We welcome all you hunched over, nearsighted, visorheaded, rouge covered Jewelers to put down your flexshaft and join us. Let's celebrate everything brazed, annealed, fabricated, granulated and bent. This is a sub for those who work with metal, wire and fire. P.S. Cold connections are cool too.
+- 为什么保留：最适合听专业维修视角，验证可拆结构是否容易松动、返修、被视为 gimmick。
+- SUIJI 可参与方式：适合研究和非常谨慎的请教；不建议品牌发帖。
+- 主要风险：接口未取到规则，小社区隐性规范强。
+- 规则摘要：规则接口未取到
 - 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
-- 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
-- 进入方式：请教机制风险、维修可行性、行业术语。
-- 回复风险：小而专业，外行语气会被识别。
-- 社区黑话/常见表达：bench、repair ticket、failure point、torch、solder joint、setting work、liability
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/jewelry｜首饰综合
 
 - 当前建议优先级：中高
-- 社区人数：348.9K；活跃/热度参考：423.7K；本地热度档位：高热
-- 主要讨论：购买建议、材质、保养、掉色、品牌质量
-- 为什么适合/不适合 SUIJI：首饰综合大池子，适合观察趋势和痛点，但竞争较大，评论要更快更具体。
-- 规则摘要：Remember the Human；Read Through the Jewelry FAQ Page Before Posting；Vendors MUST Read the Vendor Guidelines Before Posting ；No Valuation / Authentication；No Stone Identification；Hallmark and/or General Identification；"Help Me Find X" Type Posts；Missing Context and Low Effort Posts
-- 中文规则摘要：记住对方是真人，保持基本尊重；发帖前先阅读 Jewelry FAQ；商家发帖前必须阅读商家指南；禁止估价/真伪鉴定；禁止宝石鉴定；禁止印记/泛泛鉴定类请求；禁止“帮我找某物”类帖子；Missing Context and Low Effort Posts（待人工翻译/复核）
-- 规则对运营的影响：发帖要有高信息密度，避免泛泛求关注。
-- 进入方式：避免品牌硬推，适合知识型回复
-- 回复风险：低-中
-- 社区黑话/常见表达：piece、stack、everyday jewelry、tarnish、green skin、gold filled、vermeil、solid gold、hypoallergenic
+- 当前状态：保留-谨慎运营
+- 社区人数：348.9K；类型：public
+- 社区定位核查：Welcome to r/Jewelry! This is a subreddit dedicated to jewelry discussions, sharing new designs, showing off your favorites, or getting new ideas! ---- Jewelry (American English) or Jewellery (British English) is an object or objects of personal adornment, prized for the craftsmanship going into their creation, and sometimes for the intrinsic value of their components.
+- 为什么保留：首饰痛点大池子，能观察材质、掉色、质量、品牌经验和搭配问题。
+- SUIJI 可参与方式：可以帮助型知识评论；品牌/vendor 需遵守 vendor guide。
+- 主要风险：大社区竞争高，禁止估价、鉴定、石头识别、假货/复刻。
+- 规则摘要：Remember the Human；Read Through the Jewelry FAQ Page Before Posting；Vendors MUST Read the Vendor Guidelines Before Posting；No Valuation / Authentication；No Stone Identification；Hallmark and/or General Identification；"Help Me Find X" Type Posts；Missing Context and Low Effort Posts；Posts Must Be Jewelry Related；Dupe, Counterfeit, Replica, and Other Unethical Practices or Content；No “What color metal fits my skin tone?" or "Is this piece too (insert gender here)?” Type Posts；Reposting stolen content.
+- 中文规则摘要：记住对方是真人，保持基本尊重；发帖前先阅读 Jewelry FAQ；商家发帖前必须阅读商家指南；禁止估价/真伪鉴定；禁止宝石鉴定；禁止印记/泛泛鉴定类请求；禁止“帮我找某物”类帖子；Missing Context and Low Effort Posts（待人工翻译/复核）；帖子必须与首饰相关；禁止平替、假货、复刻和其他不道德内容；禁止“什么金属颜色适合我肤色”或“这件是否太男性/女性化”等帖子；禁止转载盗用内容
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/piercing｜穿孔/耳洞
 
 - 当前建议优先级：中高
-- 社区人数：999.0K；活跃/热度参考：679.3K；本地热度档位：极热
-- 规模判断：超大社区，早期不建议重投；只做学习、低频评论和规则观察。
-- 主要讨论：穿孔、敏感、发炎、材质、背扣
-- 为什么适合/不适合 SUIJI：敏感耳、材质、舒适度强相关，但医疗/感染风险高，评论要谨慎。
+- 当前状态：保留-痛点观察
+- 社区人数：999.0K；类型：public
+- 社区定位核查：Almost anything involving poking holes in flesh with sharp metal. | New here? Welcome! In the app, tap on "see more" first. On desktop, check the sidebar
+- 为什么保留：敏感耳、材质、舒适度强相关。
+- SUIJI 可参与方式：主要观察；若评论只能给安全边界和建议找专业 piercer/doctor。
+- 主要风险：禁止销售/广告/研究/自推，医疗风险很高。
 - 规则摘要：✅ Photos have to be in focus, well lit, clear and close up. (Expand to read what that means)；✅ Choice of words matter, be kind to one  another；⚠️ NSFW needs to be tagged；🚫 Comments about appearance and/or any sexual remarks are not allowed；🚫 No DIY allowed；⚠️ Unsafe, harmful, dangerous advice and/or misinformation is not welcome；🚫 No sales/advertising/spam or (self) promotion；🚫 No low effort, trolling, memes, karma farming, clickbait, (comment) bots and the like, allowed
 - 中文规则摘要：照片必须清晰、光线好、近距离且对焦；注意措辞，彼此友善；成人/不适宜内容必须标记 NSFW；禁止评论外貌或发表性暗示言论；禁止 DIY 穿孔/自行处理建议；禁止不安全、有害、危险建议或误导信息；禁止销售、广告、垃圾信息或自我推广；禁止低质量、钓鱼、梗图、刷 karma、标题党、评论机器人等内容
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 发帖要有高信息密度，避免泛泛求关注。
-- 进入方式：医疗风险高，产品不要进场
-- 回复风险：高
-- 社区黑话/常见表达：healed、fresh piercing、implant grade titanium、APP、downsizing、flat back labret、irritation bump
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/PiercingAdvice｜穿孔建议
 
 - 当前建议优先级：中高
-- 社区人数：99.4K；活跃/热度参考：54.5K；本地热度档位：中高
-- 规模判断：接近理想中型垂直社区，适合优先试运营。
-- 主要讨论：穿孔问题和建议
-- 为什么适合/不适合 SUIJI：问题明确，适合观察材质/敏感/佩戴痛点，但不适合产品推广。
-- 规则摘要：规则接口未取到；运营前必须打开 subreddit 规则页人工复核。
+- 当前状态：保留-痛点观察
+- 社区人数：99.4K；类型：public
+- 社区定位核查：公开描述为空，需人工复核。
+- 为什么保留：问题明确，适合观察敏感、材质、佩戴不适。
+- SUIJI 可参与方式：不建议产品回复；最多做安全边界型普通建议。
+- 主要风险：接口未取到规则，医疗和感染风险高。
+- 规则摘要：规则接口未取到
 - 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
-- 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
-- 进入方式：主要作为洞察，不建议公开产品回复
-- 回复风险：高
-- 社区黑话/常见表达：go to a piercer、not a doctor、infection、irritation、aftercare、jewelry quality、threadless
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
-### r/jewelers｜专业珠宝从业者
+### r/jewelers｜珠宝从业者
 
 - 当前建议优先级：中
-- 社区人数：61.3K；活跃/热度参考：47.0K；本地热度档位：中
-- 规模判断：接近理想中型垂直社区，适合优先试运营。
-- 主要讨论：专业维修、工艺、材质判断
-- 为什么适合/不适合 SUIJI：专业边界和 claim 校准价值高，但需要证据和专业语言。
-- 规则摘要：No Authentications or Requests for Authentications ；Spam Will Get You Banned；Don't Be A Jerk；No Valuations or Requests for Valuations ；Minimum Comment and Post Karma；No Solicitation；No Cross-Posting ；No Repair, Pricing or Sizing Questions
-- 中文规则摘要：No Authentications or Requests for Authentications（待人工翻译/复核）；垃圾信息会导致封禁；不要刻薄/冒犯他人；禁止估价或估价请求；有最低评论和发帖 karma 要求；禁止招揽/拉客；禁止跨社区转帖；禁止维修、价格或尺寸问题
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
-- 进入方式：需要更严谨，避免外行营销语
-- 回复风险：中
-- 社区黑话/常见表达：bench jeweler、repair、setting、polishing、plating、warranty、failure point、customer return
+- 当前状态：保留-专家研究
+- 社区人数：61.3K；类型：public
+- 社区定位核查：Welcome to /r/jewelers — a vibrant community for jewelers and enthusiasts alike! Connect with fellow professionals, share your creative and career journeys, seek advice, and grow your skills in a supportive space dedicated to the art and craft of jewelry-making. Please help us maintain a respectful and focused environment by avoiding advertising, self-promotion, and requests for valuations or authentications. Let’s celebrate the beauty, skill, and passion that make this craft shine!
+- 为什么保留：适合校准 claim、维修、售后、行业语言。
+- SUIJI 可参与方式：可用专家身份谨慎请教；不能招揽、估价、鉴定或自推。
+- 主要风险：有 karma 门槛和 no solicitation。
+- 规则摘要：No Authentications or Requests for Authentications；Spam Will Get You Banned；Don't Be A Jerk；No Valuations or Requests for Valuations；Minimum Comment and Post Karma；No Solicitation；No Cross-Posting；No Repair, Pricing or Sizing Questions；No CAD Reviews As A Consumer
+- 中文规则摘要：No Authentications or Requests for Authentications（待人工翻译/复核）；垃圾信息会导致封禁；不要刻薄/冒犯他人；禁止估价或估价请求；有最低评论和发帖 karma 要求；禁止招揽/拉客；禁止跨社区转帖；禁止维修、价格或尺寸问题；No CAD Reviews As A Consumer（待人工翻译/复核）
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
-### r/JewelryDesign｜设计反馈
+### r/JewelryDesign｜首饰设计
 
 - 当前建议优先级：中
-- 社区人数：9.3K；活跃/热度参考：608；本地热度档位：低/小众
-- 规模判断：小社区，曝光小但语境密度高，进入前要更像内部成员。
-- 主要讨论：设计反馈、概念验证
-- 为什么适合/不适合 SUIJI：适合审美/设计反馈，但社区规模小，活跃度波动较大。
-- 规则摘要：规则接口未取到；运营前必须打开 subreddit 规则页人工复核。
+- 当前状态：保留-概念验证
+- 社区人数：9.3K；类型：public
+- 社区定位核查：This is a place for all jewelry lovers out there, Discuss about jewelry you're about to or planning to buy. Share anything to ask anything! (No self-promotions)
+- 为什么保留：适合审美、比例、设计反馈。
+- SUIJI 可参与方式：可观察设计语言；发概念图前要人工复核规则。
+- 主要风险：接口未取到规则；简介写 No self-promotions。
+- 规则摘要：规则接口未取到
 - 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
-- 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
-- 进入方式：发帖前必须查规则
-- 回复风险：中
-- 社区黑话/常见表达：CAD、render、proportion、wearability、scale、setting、mechanism、too busy、gimmicky
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
-### r/jewelryCAD｜首饰 CAD/结构打样
+### r/jewelryCAD｜首饰 CAD
 
 - 当前建议优先级：中
-- 社区人数：2.7K；活跃/热度参考：未知；本地热度档位：待复核
-- 规模判断：小社区，曝光小但语境密度高，进入前要更像内部成员。
-- 主要讨论：适合讨论模块连接结构、尺寸公差、可制造性、渲染/打样反馈。
-- 为什么适合/不适合 SUIJI：极垂直结构打样社区，适合小规模专业验证。
-- 规则摘要：规则接口未取到；运营前必须打开 subreddit 规则页人工复核。
+- 当前状态：保留-专家研究
+- 社区人数：2.7K；类型：public
+- 社区定位核查：A community for jewelry CAD techs to share designs, ask questions, link inspiration and tutorials, job hunt, and generally share their experiences.
+- 为什么保留：极垂直，适合结构、公差、打样和 CAD 反馈。
+- SUIJI 可参与方式：可请教结构问题；不要市场营销。
+- 主要风险：接口未取到规则，小圈子专业语境强。
+- 规则摘要：规则接口未取到
 - 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
-- 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
-- 进入方式：收集结构图反馈、建立设计验证问题清单。
-- 回复风险：非常小众，活跃度有限。
-- 社区黑话/常见表达：CAD、tolerance、print、casting、mechanism、hinge、snap fit、render
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/fashionwomens35｜35+ 女性时尚
 
 - 当前建议优先级：中
-- 社区人数：66.8K；活跃/热度参考：133.4K；本地热度档位：中高
-- 规模判断：接近理想中型垂直社区，适合优先试运营。
-- 主要讨论：成熟风格、质量、实用性
-- 为什么适合/不适合 SUIJI：35+ 女性穿搭场景好，但首饰不是唯一主题，需要自然切入。
+- 当前状态：保留-场景观察
+- 社区人数：66.8K；类型：public
+- 社区定位核查：Chat about over-35 fashion here! Do not post about undergarments. You will be banned. Do not comment on posts over 12 months old.
+- 为什么保留：35+ 女性穿搭和高级感/舒适度/不过度用力相关。
+- SUIJI 可参与方式：可以普通穿搭建议；不要推广产品。
+- 主要风险：规则偏轻松友好但禁止 spam。
 - 规则摘要：Keep it fluffy. This means no politics of any kind.；Keep it fashion；Keep it friendly；Keep it fair；Keep it Flair-Y；Keep it functional and for-real: no spam；Keep it here；Keep it G-rated
 - 中文规则摘要：Keep it fluffy. This means no politics of any kind.（待人工翻译/复核）；Keep it fashion（待人工翻译/复核）；Keep it friendly（待人工翻译/复核）；Keep it fair（待人工翻译/复核）；Keep it Flair-Y（待人工翻译/复核）；Keep it functional and for-real: no spam（待人工翻译/复核）；Keep it here（待人工翻译/复核）；Keep it G-rated（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
-- 进入方式：语气要成熟具体
-- 回复风险：低-中
-- 社区黑话/常见表达：age-appropriate、polished、elevated basics、investment piece、comfort、not trying too hard
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/PetiteFashionAdvice｜小个子穿搭
 
 - 当前建议优先级：中
-- 社区人数：734.9K；活跃/热度参考：144.0K；本地热度档位：中高
-- 规模判断：超大社区，早期不建议重投；只做学习、低频评论和规则观察。
-- 主要讨论：比例、精致小体量配饰
-- 为什么适合/不适合 SUIJI：体型/比例/轻量首饰相关，但主题偏穿搭，不能硬转产品。
-- 规则摘要：Keep posts petite fashion-related；General fashion, outfit, and body shape posts belong in the Scheduled threads；You must have BOTH a user flair AND a post flair to submit a post.；No personal attacks or hate speech；No inappropriate comments or body/weight-shaming；No self-promotion；No spam or referral links；No exposing personal information
-- 中文规则摘要：Keep posts petite fashion-related（待人工翻译/复核）；General fashion, outfit, and body shape posts belong in the Scheduled threads（待人工翻译/复核）；You must have BOTH a user flair AND a post flair to submit a post.（待人工翻译/复核）；No personal attacks or hate speech（待人工翻译/复核）；No inappropriate comments or body/weight-shaming（待人工翻译/复核）；No self-promotion（待人工翻译/复核）；No spam or referral links（待人工翻译/复核）；No exposing personal information（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
-- 进入方式：适合比例和场景建议
-- 回复风险：低-中
-- 社区黑话/常见表达：petite、proportion、scale、overwhelming、elongate、visual weight
+- 当前状态：保留-场景观察
+- 社区人数：734.9K；类型：public
+- 社区定位核查：Welcome to /r/PetiteFashionAdvice! PetiteFashionAdvice is a fashion forum for petite (5'4" and under) individuals. The definition of petite refers to height. All body shapes, sizes, and weights are welcome.
+- 为什么保留：首饰比例、视觉重量、不过度压个子等场景相关。
+- SUIJI 可参与方式：可以讨论比例和搭配；不要自推或 referral。
+- 主要风险：帖子必须 petite fashion 相关，需要 flair。
+- 规则摘要：Keep posts petite fashion-related；General fashion, outfit, and body shape posts belong in the Scheduled threads；You must have BOTH a user flair AND a post flair to submit a post.；No personal attacks or hate speech；No inappropriate comments or body/weight-shaming；No self-promotion；No spam or referral links；No exposing personal information；No NSFW content
+- 中文规则摘要：Keep posts petite fashion-related（待人工翻译/复核）；General fashion, outfit, and body shape posts belong in the Scheduled threads（待人工翻译/复核）；You must have BOTH a user flair AND a post flair to submit a post.（待人工翻译/复核）；No personal attacks or hate speech（待人工翻译/复核）；No inappropriate comments or body/weight-shaming（待人工翻译/复核）；No self-promotion（待人工翻译/复核）；No spam or referral links（待人工翻译/复核）；No exposing personal information（待人工翻译/复核）；禁止成人/不适宜内容
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/Weddingattireapproval｜婚礼着装审核
 
 - 当前建议优先级：中
-- 社区人数：170.5K；活跃/热度参考：419.0K；本地热度档位：极热
-- 主要讨论：婚礼/正式场合穿搭审核
-- 为什么适合/不适合 SUIJI：场景明确，适合观察首饰搭配决策，但多为单次事件。
+- 当前状态：保留-场景观察
+- 社区人数：170.5K；类型：public
+- 社区定位核查：Where people come to ask if an outfit for an upcoming wedding is appropriate. Personal attacks will not be tolerated. Keep it about the clothing.
+- 为什么保留：场景明确，适合观察首饰搭配决策和礼仪边界。
+- SUIJI 可参与方式：可以给具体搭配建议；不要引导购买。
+- 主要风险：必须围绕 wedding attire，评论要 helpful。
 - 规则摘要：Wedding Attire Posts Only；Be kind and respectful；No arguing.；Inappropriate comment；Helpful comments only；Respect all gender identities and sexual preferences；Troll posts
 - 中文规则摘要：Wedding Attire Posts Only（待人工翻译/复核）；Be kind and respectful（待人工翻译/复核）；No arguing.（待人工翻译/复核）；Inappropriate comment（待人工翻译/复核）；Helpful comments only（待人工翻译/复核）；Respect all gender identities and sexual preferences（待人工翻译/复核）；Troll posts（待人工翻译/复核）
-- 规则对运营的影响：语气要克制、具体、非评判。
-- 进入方式：不要抢焦点，避免品牌推荐
-- 回复风险：中
-- 社区黑话/常见表达：dress code、black tie、cocktail、guest attire、too much/too casual、accessorize
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/BuyItForLife｜耐用品/质量验证
-
-- 当前建议优先级：观察
-- 社区人数：3.7M；活跃/热度参考：1.6M；本地热度档位：极热
-- 规模判断：超大社区，早期不建议重投；只做学习、低频评论和规则观察。
-- 主要讨论：耐用、长期价值、反一次性消费
-- 为什么适合/不适合 SUIJI：耐用/质量语言很有价值，但商业和推荐风险高，进入要慢。
-- 规则摘要：Posted products must be BIFL；Requests must be Flaired as such；No Low-Effort Posts；No Home-made items；No new or unreleased products；Non-descriptive product posts；Affiliate links or free/discounted product；No Advertising on /r/BuyItForLife
-- 中文规则摘要：Posted products must be BIFL（待人工翻译/复核）；Requests must be Flaired as such（待人工翻译/复核）；No Low-Effort Posts（待人工翻译/复核）；No Home-made items（待人工翻译/复核）；No new or unreleased products（待人工翻译/复核）；Non-descriptive product posts（待人工翻译/复核）；Affiliate links or free/discounted product（待人工翻译/复核）；No Advertising on /r/BuyItForLife（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
-- 进入方式：需要强证据，拒绝营销
-- 回复风险：中
-- 社区黑话/常见表达：BIFL、buy once cry once、repairable、warranty、patina、heirloom、planned obsolescence
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/OUTFITS｜穿搭展示
-
-- 当前建议优先级：观察
-- 社区人数：3.7M；活跃/热度参考：1.4M；本地热度档位：极热
-- 规模判断：超大社区，早期不建议重投；只做学习、低频评论和规则观察。
-- 主要讨论：整体造型反馈
-- 为什么适合/不适合 SUIJI：流量大但节奏快，适合学习搭配语言，不是早期主阵地。
-- 规则摘要：COMMENTS MUST BE CONSTRUCTIVE, HELPFUL, AND KIND；COMMENTS MUST BE ABOUT THE OUTFIT；NO CREEPY OR SEXUAL COMMENTS；NO MISOGYNY, HATE, OR BIGOTRY；NO NSFW ACCOUNTS；DON'T DM ANYONE OR SOLICIT CONTACT INFO；SHOW YOUR OUTFIT CLEARLY AND APPROPRIATELY；FLAIR YOUR POSTS APPROPRIATELY
-- 中文规则摘要：COMMENTS MUST BE CONSTRUCTIVE, HELPFUL, AND KIND（待人工翻译/复核）；COMMENTS MUST BE ABOUT THE OUTFIT（待人工翻译/复核）；NO CREEPY OR SEXUAL COMMENTS（待人工翻译/复核）；NO MISOGYNY, HATE, OR BIGOTRY（待人工翻译/复核）；NO NSFW ACCOUNTS（待人工翻译/复核）；DON'T DM ANYONE OR SOLICIT CONTACT INFO（待人工翻译/复核）；SHOW YOUR OUTFIT CLEARLY AND APPROPRIATELY（待人工翻译/复核）；FLAIR YOUR POSTS APPROPRIATELY（待人工翻译/复核）
-- 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
-- 进入方式：少谈产品，多谈搭配逻辑
-- 回复风险：中
-- 社区黑话/常见表达：fit check、CCW、where to cop、statement、balance、proportion
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/femalefashionadvice｜女性时尚/穿搭
-
-- 当前建议优先级：观察
-- 社区人数：5.8M；活跃/热度参考：736.8K；本地热度档位：极热
-- 规模判断：超大社区，早期不建议重投；只做学习、低频评论和规则观察。
-- 主要讨论：穿搭建议、场景搭配、胶囊衣橱
-- 为什么适合/不适合 SUIJI：超大社区，规则和文化复杂，不适合一开始重投。
-- 规则摘要：spam or referral links；marketing or market research；personal attacks or hate speech；threats or doxxing；lechery；unsolicited diet, exercise or weight loss advice；posts that belong in a daily/weekly thread；meta posts
-- 中文规则摘要：spam or referral links（待人工翻译/复核）；marketing or market research（待人工翻译/复核）；personal attacks or hate speech（待人工翻译/复核）；threats or doxxing（待人工翻译/复核）；lechery（待人工翻译/复核）；unsolicited diet, exercise or weight loss advice（待人工翻译/复核）；posts that belong in a daily/weekly thread（待人工翻译/复核）；meta posts（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
-- 进入方式：规则和社区文化强，先观察
-- 回复风险：中-高
-- 社区黑话/常见表达：MFA/FFA、fit、silhouette、capsule、statement piece、daily driver、occasionwear
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/minimalism｜极简生活方式
-
-- 当前建议优先级：观察
-- 社区人数：2.6M；活跃/热度参考：118.8K；本地热度档位：中高
-- 规模判断：超大社区，早期不建议重投；只做学习、低频评论和规则观察。
-- 主要讨论：少拥有、减少物品
-- 为什么适合/不适合 SUIJI：理念相关但首饰相关度不稳定，适合观察少而精价值观。
-- 规则摘要：No memes；Posts need to be related to minimalism；Please keep things civil；No self-promotion / advertising；Assign a flair to your post after submitting it；No AI-generated posts or comments
-- 中文规则摘要：No memes（待人工翻译/复核）；Posts need to be related to minimalism（待人工翻译/复核）；Please keep things civil（待人工翻译/复核）；No self-promotion / advertising（待人工翻译/复核）；Assign a flair to your post after submitting it（待人工翻译/复核）；No AI-generated posts or comments（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
-- 进入方式：非常反感消费推动
-- 回复风险：中
-- 社区黑话/常见表达：minimal、intentional、declutter、essentials、low maintenance、less but better
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/onebag｜轻量旅行
-
-- 当前建议优先级：观察
-- 社区人数：925.0K；活跃/热度参考：321.2K；本地热度档位：高热
-- 规模判断：超大社区，早期不建议重投；只做学习、低频评论和规则观察。
-- 主要讨论：功能性旅行轻装
-- 为什么适合/不适合 SUIJI：旅行轻量理念相关，但偏装备，首饰切入要非常克制。
-- 规则摘要：Onebag Travel Related Posts Only；Bag Finder Megathread；No Low-Effort Posts；Be Nice!；No Direct Link Posts to External Websites；No Referral Links or Codes；No Advertising, Marketing, or Research Posts
-- 中文规则摘要：Onebag Travel Related Posts Only（待人工翻译/复核）；Bag Finder Megathread（待人工翻译/复核）；No Low-Effort Posts（待人工翻译/复核）；Be Nice!（待人工翻译/复核）；No Direct Link Posts to External Websites（待人工翻译/复核）；No Referral Links or Codes（待人工翻译/复核）；No Advertising, Marketing, or Research Posts（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。
-- 进入方式：更偏功能，审美话术要收敛
-- 回复风险：中
-- 社区黑话/常见表达：onebag、EDC、pack weight、multi-use、durability、security、low-profile
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/metalsmithing｜金工/金属工艺
-
-- 当前建议优先级：观察
-- 社区人数：7.7K；活跃/热度参考：未知；本地热度档位：待复核
-- 规模判断：小社区，曝光小但语境密度高，进入前要更像内部成员。
-- 主要讨论：This is a forum for the Jewelry and Metalsmithing community. To share work, critique, share techniques and generally connect and collaborate.
-- 为什么适合/不适合 SUIJI：根据相关性和风险综合判断。
-- 规则摘要：规则接口未取到；运营前必须打开 subreddit 规则页人工复核。
-- 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
-- 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
-- 进入方式：先观察高赞帖和近期评论，再做帮助型评论。
-- 回复风险：规则和语气需人工复核
-- 社区黑话/常见表达：soldering、forming、anneal、pickle、filing、finishing、patina
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/silversmith｜银匠/手工金属
-
-- 当前建议优先级：观察
-- 社区人数：29.8K；活跃/热度参考：未知；本地热度档位：待复核
-- 主要讨论：This is a shop-talk and showcase sub for Silversmith’s and Goldsmith’s. Where we can come together and share our knowledge and skills with one another.
-
-Stick around and share some of the things that you’ve made or offer your knowledge and tips that you’ve learned along the way to help newer generations.
-
-Beginner? Please see the pinned post for beginners resources before asking your question.
-
-New to the sub? Please read the rules before posting.
-- 为什么适合/不适合 SUIJI：根据相关性和风险综合判断。
-- 规则摘要：Beginners Resources Pinned Post；No posts regarding sales or self promotion；No commission requests；Respectful discourse
-- 中文规则摘要：Beginners Resources Pinned Post（待人工翻译/复核）；No posts regarding sales or self promotion（待人工翻译/复核）；No commission requests（待人工翻译/复核）；Respectful discourse（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。
-- 进入方式：先观察高赞帖和近期评论，再做帮助型评论。
-- 回复风险：规则和语气需人工复核
-- 社区黑话/常见表达：sterling、solder seam、oxidize、polish、hallmark、handmade
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/WitchesVsPatriarchy｜风格/符号文化
-
-- 当前建议优先级：观察
-- 社区人数：823.0K；活跃/热度参考：未知；本地热度档位：待复核
-- 规模判断：超大社区，早期不建议重投；只做学习、低频评论和规则观察。
-- 主要讨论：r/WitchesVsPatriarchy is a woman-centered sub with a witchy twist, aimed at healing, supporting, and uplifting one another through humor and magic.
-
-The goal is to at once embrace, and poke fun at, the mystical aspects of femininity that have been previously demonized and/or devalued by the patriarchy.
-
-This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ community. We are Sisters, not Cisters. If you do not consider yourself an ally, then this subreddit is not for you.
-- 为什么适合/不适合 SUIJI：根据相关性和风险综合判断。
-- 规则摘要：Be kind；Destroy the Patriarchy；No Evangelizing；Follow Coven Etiquette；Marketplace and Economic Rules
-- 中文规则摘要：Be kind（待人工翻译/复核）；Destroy the Patriarchy（待人工翻译/复核）；No Evangelizing（待人工翻译/复核）；Follow Coven Etiquette（待人工翻译/复核）；Marketplace and Economic Rules（待人工翻译/复核）
-- 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
-- 进入方式：先观察高赞帖和近期评论，再做帮助型评论。
-- 回复风险：规则和语气需人工复核
-- 社区黑话/常见表达：symbolism、witchy、ritual、protective jewelry、aesthetic、ethical
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/cottagecore｜风格审美
-
-- 当前建议优先级：观察
-- 社区人数：271.6K；活跃/热度参考：未知；本地热度档位：待复核
-- 主要讨论：Cottagecore is an aesthetic depicting a simple, romanticized life in nature. It features themes of farm animals, earthy tones, soft illustrations, and more.
-- 为什么适合/不适合 SUIJI：根据相关性和风险综合判断。
-- 规则摘要：Self promotion posts are not allowed；Spam/Low effort posts are not allowed；No bigotry；No NSFW/NSFL content；Artists must be credited；Do not attempt to plan in-person meet-ups
-- 中文规则摘要：Self promotion posts are not allowed（待人工翻译/复核）；Spam/Low effort posts are not allowed（待人工翻译/复核）；No bigotry（待人工翻译/复核）；No NSFW/NSFL content（待人工翻译/复核）；Artists must be credited（待人工翻译/复核）；Do not attempt to plan in-person meet-ups（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 发帖要有高信息密度，避免泛泛求关注。
-- 进入方式：先观察高赞帖和近期评论，再做帮助型评论。
-- 回复风险：规则和语气需人工复核
-- 社区黑话/常见表达：cottagecore、dainty、vintage、handmade、soft、romantic
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/oldhagfashion｜个性穿搭
-
-- 当前建议优先级：观察
-- 社区人数：131.6K；活跃/热度参考：未知；本地热度档位：待复核
-- 规模判断：接近理想中型垂直社区，适合优先试运营。
-- 主要讨论：r/OldHagFashion is a space to celebrate feminine and androgynous fashion in ALL it's forms, to share diverse style inspiration, to de-stigmatize aging in fashion, and to engage in self-discovery through personal style, all with an Old Hag fashion philosophy.
-- 为什么适合/不适合 SUIJI：根据相关性和风险综合判断。
-- 规则摘要：Be Kind；No gatekeeping Old Hag Fashion；Respect the flair；No prohibited accounts；No prohibited body talk；No lechery；No stand-alone rants, trend bashing, or inter-sub drama；No single-item images or face-only selfies
-- 中文规则摘要：Be Kind（待人工翻译/复核）；No gatekeeping Old Hag Fashion（待人工翻译/复核）；Respect the flair（待人工翻译/复核）；No prohibited accounts（待人工翻译/复核）；No prohibited body talk（待人工翻译/复核）；No lechery（待人工翻译/复核）；No stand-alone rants, trend bashing, or inter-sub drama（待人工翻译/复核）；No single-item images or face-only selfies（待人工翻译/复核）
-- 规则对运营的影响：语气要克制、具体、非评判。
-- 进入方式：先观察高赞帖和近期评论，再做帮助型评论。
-- 回复风险：规则和语气需人工复核
-- 社区黑话/常见表达：old hag fashion、joyful dressing、personal style、maximalist、thrifted、storytelling
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/Beading｜串珠/DIY 组装
 
 - 当前建议优先级：中
-- 社区人数：125.2K；活跃/热度参考：未知；本地热度档位：待复核
-- 规模判断：接近理想中型垂直社区，适合优先试运营。
-- 主要讨论：用户关注组件、串联、配色、扣件、替换和 DIY 组合，能提供组装式审美与结构灵感。
-- 为什么适合/不适合 SUIJI：DIY 组装和配件组合相关，适合观察用户如何理解可替换组件和个性化。
+- 当前状态：保留-结构语言研究
+- 社区人数：125.2K；类型：public
+- 社区定位核查：A community of beaders.
+- 为什么保留：DIY 组装、配件组合和可替换组件语言相关。
+- SUIJI 可参与方式：主要研究结构语言；不适合 SUIJI 成品营销。
+- 主要风险：禁止广告、销售、外部市场链接和侵权图案。
 - 规则摘要：No bullying/harassment；No Advertising/Spam；No sharing copyrighted patterns.；No dream catchers；No linking to Aliexpress, Temu, or similar online markets；No stealing other people’s work；No politics；No AI images
 - 中文规则摘要：No bullying/harassment（待人工翻译/复核）；No Advertising/Spam（待人工翻译/复核）；No sharing copyrighted patterns.（待人工翻译/复核）；No dream catchers（待人工翻译/复核）；No linking to Aliexpress, Temu, or similar online markets（待人工翻译/复核）；No stealing other people’s work（待人工翻译/复核）；No politics（待人工翻译/复核）；No AI images（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。
-- 进入方式：研究组件化语言和用户 DIY 动机。
-- 回复风险：偏手作，不等同于 demi-fine 消费者。
-- 社区黑话/常见表达：beads、findings、crimp、wire、bracelet stack、pattern、seed beads、stretch cord
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
-### r/Pandora｜Pandora 品牌/串饰
+### r/PandoraCollectors｜Pandora 珠宝收藏
 
 - 当前建议优先级：中
-- 社区人数：6.0K；活跃/热度参考：未知；本地热度档位：待复核
-- 规模判断：小社区，曝光小但语境密度高，进入前要更像内部成员。
-- 主要讨论：可观察 charms、手链组件、搭配和礼物场景，但更偏品牌售后与收藏。
-- 为什么适合/不适合 SUIJI：品牌/串饰社区能观察模块化饰品的用户语言，但品牌边界强，不适合提 SUIJI。
-- 规则摘要：loren ipsum
-- 中文规则摘要：loren ipsum（待人工翻译/复核）
-- 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
-- 进入方式：补充组合式首饰的用户语言。
-- 回复风险：品牌社区敏感，不建议主动品牌回复。
-- 社区黑话/常见表达：charm、bracelet、clip、spacer、collection、retired、sterling、authentic
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/PandoraCollectors｜Pandora 收藏/模块化串饰
-
-- 当前建议优先级：中
-- 社区人数：14.7K；活跃/热度参考：未知；本地热度档位：待复核
-- 规模判断：小社区，曝光小但语境密度高，进入前要更像内部成员。
-- 主要讨论：不是 SUIJI 同类产品，但用户天然理解 charms、可替换组件、收藏与组合玩法。
-- 为什么适合/不适合 SUIJI：模块化串饰和收藏逻辑相关，适合学习用户如何谈论可替换、组合、主题和配件生态。
-- 规则摘要：Privacy；No harassment；No misinformation 
+- 当前状态：保留-模块化语言观察
+- 社区人数：14.7K；类型：public
+- 社区定位核查：The community for Pandora charm bracelet wearers and jewelry collectors to show off their collections, share tips and tricks, trade jewelry, etc.
+- 为什么保留：确认是 Pandora charm bracelet/jewelry collectors，可观察模块化串饰、收藏、组合语言。
+- SUIJI 可参与方式：只观察或普通收藏语境参与；不要提 SUIJI。
+- 主要风险：品牌社区，不适合品牌对比或引流。
+- 规则摘要：Privacy；No harassment；No misinformation
 - 中文规则摘要：Privacy（待人工翻译/复核）；No harassment（待人工翻译/复核）；No misinformation（待人工翻译/复核）
-- 规则对运营的影响：语气要克制、具体、非评判。
-- 进入方式：研究模块化首饰的“收集/组合/情绪价值”语言。
-- 回复风险：品牌粉丝社区，不能比较或蹭品牌。
-- 社区黑话/常见表达：charm、bracelet stack、retired charm、clip、spacer、theme、authentic、dupe
+- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
+
+### r/BuyItForLife｜耐用品/质量
+
+- 当前建议优先级：观察
+- 当前状态：保留-只读观察
+- 社区人数：3.7M；类型：public
+- 社区定位核查：For practical, durable and quality made products that are made to last. **Reminder:** Please use the search function before making a request. The Mission Statement: http://www.reddit.com/r/BuyItForLife/comments/jtjuz/bi4l_mission_statement_rules_etc/
+- 为什么保留：耐用、维修、长期价值语言有参考意义。
+- SUIJI 可参与方式：不建议主动提 SUIJI；只读为主。
+- 主要风险：超大社区，禁止广告，要求 BIFL 证据。
+- 规则摘要：Posted products must be BIFL；Requests must be Flaired as such；No Low-Effort Posts；No Home-made items；No new or unreleased products；Non-descriptive product posts；Affiliate links or free/discounted product；No Advertising on /r/BuyItForLife
+- 中文规则摘要：Posted products must be BIFL（待人工翻译/复核）；Requests must be Flaired as such（待人工翻译/复核）；No Low-Effort Posts（待人工翻译/复核）；No Home-made items（待人工翻译/复核）；No new or unreleased products（待人工翻译/复核）；Non-descriptive product posts（待人工翻译/复核）；Affiliate links or free/discounted product（待人工翻译/复核）；No Advertising on /r/BuyItForLife（待人工翻译/复核）
+- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
+
+### r/OUTFITS｜穿搭展示
+
+- 当前建议优先级：观察
+- 当前状态：保留-只读观察
+- 社区人数：3.7M；类型：public
+- 社区定位核查：A fashion sub to share your latest fits, get or give advice, and discuss fashion! Please be sensitive and respectful to all our members. NO NSFW!
+- 为什么保留：可学习 outfit 反馈语言和搭配表达。
+- SUIJI 可参与方式：偶尔低风险搭配评论；不适合品牌发帖。
+- 主要风险：超大、规则严格，评论必须关于 outfit。
+- 规则摘要：COMMENTS MUST BE CONSTRUCTIVE, HELPFUL, AND KIND；COMMENTS MUST BE ABOUT THE OUTFIT；NO CREEPY OR SEXUAL COMMENTS；NO MISOGYNY, HATE, OR BIGOTRY；NO NSFW ACCOUNTS；DON'T DM ANYONE OR SOLICIT CONTACT INFO；SHOW YOUR OUTFIT CLEARLY AND APPROPRIATELY；FLAIR YOUR POSTS APPROPRIATELY；NO LINGERIE OR LOW EFFORT/OFF-TOPIC OUTFITS；NO RATINGS POSTS OR COMMENTS；DO NOT EXCEED THE POST LIMIT；NO CLICKBAIT OR PROVOCATIVE POSTS OR TITLES
+- 中文规则摘要：COMMENTS MUST BE CONSTRUCTIVE, HELPFUL, AND KIND（待人工翻译/复核）；COMMENTS MUST BE ABOUT THE OUTFIT（待人工翻译/复核）；NO CREEPY OR SEXUAL COMMENTS（待人工翻译/复核）；NO MISOGYNY, HATE, OR BIGOTRY（待人工翻译/复核）；NO NSFW ACCOUNTS（待人工翻译/复核）；DON'T DM ANYONE OR SOLICIT CONTACT INFO（待人工翻译/复核）；SHOW YOUR OUTFIT CLEARLY AND APPROPRIATELY（待人工翻译/复核）；FLAIR YOUR POSTS APPROPRIATELY（待人工翻译/复核）；NO LINGERIE OR LOW EFFORT/OFF-TOPIC OUTFITS（待人工翻译/复核）；NO RATINGS POSTS OR COMMENTS（待人工翻译/复核）；DO NOT EXCEED THE POST LIMIT（待人工翻译/复核）；NO CLICKBAIT OR PROVOCATIVE POSTS OR TITLES（待人工翻译/复核）
+- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
+
+### r/minimalism｜极简生活
+
+- 当前建议优先级：观察
+- 当前状态：保留-只读观察
+- 社区人数：2.6M；类型：public
+- 社区定位核查：For those who appreciate simplicity in any form.
+- 为什么保留：少而精、低维护、反消费主义语境可参考。
+- SUIJI 可参与方式：只读为主；不适合产品营销。
+- 主要风险：禁止自推/广告和 AI 生成内容。
+- 规则摘要：No memes；Posts need to be related to minimalism；Please keep things civil；No self-promotion / advertising；Assign a flair to your post after submitting it；No AI-generated posts or comments
+- 中文规则摘要：No memes（待人工翻译/复核）；Posts need to be related to minimalism（待人工翻译/复核）；Please keep things civil（待人工翻译/复核）；No self-promotion / advertising（待人工翻译/复核）；Assign a flair to your post after submitting it（待人工翻译/复核）；No AI-generated posts or comments（待人工翻译/复核）
+- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
+
+### r/onebag｜单包旅行
+
+- 当前建议优先级：观察
+- 当前状态：保留-只读观察
+- 社区人数：925.0K；类型：public
+- 社区定位核查：The r/onebag community promotes urban travel with the philosophy of carrying less. Pack less and simplify your travel experience, prioritizing exploration over logistics. Onebagging allows you to immerse yourself in your destination by using your bag as a tool, not as the main focus of your trip.
+- 为什么保留：旅行轻量理念相关，但偏包袋装备。
+- SUIJI 可参与方式：只读旅行语言；若参与必须与 onebag 直接相关。
+- 主要风险：禁止广告、营销、研究帖；外部链接严格。
+- 规则摘要：Onebag Travel Related Posts Only；Bag Finder Megathread；No Low-Effort Posts；Be Nice!；No Direct Link Posts to External Websites；No Referral Links or Codes；No Advertising, Marketing, or Research Posts
+- 中文规则摘要：Onebag Travel Related Posts Only（待人工翻译/复核）；Bag Finder Megathread（待人工翻译/复核）；No Low-Effort Posts（待人工翻译/复核）；Be Nice!（待人工翻译/复核）；No Direct Link Posts to External Websites（待人工翻译/复核）；No Referral Links or Codes（待人工翻译/复核）；No Advertising, Marketing, or Research Posts（待人工翻译/复核）
+- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
+
+### r/metalsmithing｜金工/金属工艺
+
+- 当前建议优先级：观察
+- 当前状态：保留-专家研究
+- 社区人数：7.7K；类型：public
+- 社区定位核查：This is a forum for the Jewelry and Metalsmithing community. To share work, critique, share techniques and generally connect and collaborate.
+- 为什么保留：工艺和金属结构学习有价值。
+- SUIJI 可参与方式：专家研究为主，发帖前人工复核。
+- 主要风险：接口未取到规则。
+- 规则摘要：规则接口未取到
+- 中文规则摘要：规则接口未取到；运营前必须人工检查 About、Rules、wiki、置顶帖和版主评论。
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
 ### r/SilverSmith｜银匠/手工金属
 
 - 当前建议优先级：观察
-- 社区人数：29.8K；活跃/热度参考：未知；本地热度档位：待复核
-- 主要讨论：适合看金属连接、扣件、焊接、维修、耐用性讨论。
-- 为什么适合/不适合 SUIJI：专业金工视角可用于材料和结构学习，早期不作为主运营社区。
+- 当前状态：保留-专家研究
+- 社区人数：29.8K；类型：public
+- 社区定位核查：This is a shop-talk and showcase sub for Silversmith’s and Goldsmith’s. Where we can come together and share our knowledge and skills with one another. Stick around and share some of the things that you’ve made or offer your knowledge and tips that you’ve learned along the way to help newer generations. Beginner? Please see the pinned post for beginners resources before asking your question. New to the sub? Please read the rules before posting.
+- 为什么保留：材料、手工、维修语言有价值。
+- SUIJI 可参与方式：只做工艺学习；不要销售、自推或 commission。
+- 主要风险：禁止销售、自推和 commission 请求。
 - 规则摘要：Beginners Resources Pinned Post；No posts regarding sales or self promotion；No commission requests；Respectful discourse
 - 中文规则摘要：Beginners Resources Pinned Post（待人工翻译/复核）；No posts regarding sales or self promotion（待人工翻译/复核）；No commission requests（待人工翻译/复核）；Respectful discourse（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 语气要克制、具体、非评判。
-- 进入方式：补充工艺知识和反对意见。
-- 回复风险：更偏工艺，不一定有消费者购买语言。
-- 社区黑话/常见表达：sterling、solder seam、oxidize、polish、hallmark、handmade
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
-### r/Stretched｜扩耳/穿孔首饰
+### r/WireWrapping｜绕线首饰
 
 - 当前建议优先级：观察
-- 社区人数：161.9K；活跃/热度参考：未知；本地热度档位：待复核
-- 主要讨论：有大量 plug、tunnel、material、size、fit 讨论，体现身体饰品组件化和舒适度逻辑。
-- 为什么适合/不适合 SUIJI：穿孔首饰材质/舒适度相关，但医疗和身体改造语境强，先观察不主动运营。
-- 规则摘要：Mark NSFW posts；Spam；No demeaning terms or personal attacks；Do not spread harmful advice or misinformation；Memes/shitposts；Spreading Information on or Using Unsafe Practices；No Low Quality Images；Don't be creepy.
-- 中文规则摘要：Mark NSFW posts（待人工翻译/复核）；Spam（待人工翻译/复核）；No demeaning terms or personal attacks（待人工翻译/复核）；Do not spread harmful advice or misinformation（待人工翻译/复核）；Memes/shitposts（待人工翻译/复核）；Spreading Information on or Using Unsafe Practices（待人工翻译/复核）；No Low Quality Images（待人工翻译/复核）；Don't be creepy.（待人工翻译/复核）
-- 规则对运营的影响：商业/自推风险高，避免链接、折扣、购买引导。 发帖要有高信息密度，避免泛泛求关注。
-- 进入方式：学习材质、尺寸、fit 的高风险社区语言。
-- 回复风险：身体改造语境强，不适合品牌介入。
-- 社区黑话/常见表达：stretched ears、plugs、tunnels、gauge、dead stretch、blowout、jewelry quality
-- 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
-
-### r/WireWrapping｜绕线首饰/手工结构
-
-- 当前建议优先级：观察
-- 社区人数：58.1K；活跃/热度参考：未知；本地热度档位：待复核
-- 规模判断：接近理想中型垂直社区，适合优先试运营。
-- 主要讨论：偏手作和可改造结构，能观察用户如何解释连接、固定、挂坠转换。
-- 为什么适合/不适合 SUIJI：手工结构和材料语言有价值，但与 SUIJI 成品用户重合度较低。
+- 当前状态：保留-只读观察
+- 社区人数：58.1K；类型：public
+- 社区定位核查：A subreddit for people who love and create wire wrapped goodies, jewelry and whatnot. A friendly place to post your questions, comments, pictures, and tutorials.
+- 为什么保留：手工结构和视觉反馈可参考，但与 SUIJI 精密快拆定位较远。
+- SUIJI 可参与方式：只读为主。
+- 主要风险：规则较弱，仍需人工复核。
 - 规则摘要：Rules
 - 中文规则摘要：Rules（待人工翻译/复核）
-- 规则对运营的影响：具体规则需在行动前人工复核；先以帮助型评论进入。
-- 进入方式：寻找结构解释方式和视觉反馈。
-- 回复风险：与 SUIJI 精密快拆定位距离较远。
-- 社区黑话/常见表达：wire wrap、gauge、dead soft、half hard、bail、weave、cabochon、wrap
 - 运营前 5 分钟检查：先读 About/Rules、置顶帖、最近 10 条 rising/new、最近 5 条高赞评论；确认能否品牌/专家身份参与；确认是否需要披露身份。
 
-## 5. 不同社区的运营方式差异
-
-| 社区类型 | 更适合做什么 | 不适合做什么 | 语气要求 |
-|---|---|---|---|
-| 首饰/耳饰垂直 | 回答材质、重量、搭配、保养、敏感耳经验；沉淀痛点 | 直接推产品、绝对化低敏承诺 | 具体、温和、可验证 |
-| 工艺/专业社区 | 请教结构风险、维修可行性、材料边界 | 把概念包装成已验证事实 | 谦虚、技术化、有证据 |
-| 穿孔社区 | 观察敏感、舒适、材质痛点；给安全边界 | 医疗诊断、感染判断、产品替代专业建议 | 谨慎、先建议专业人士 |
-| 职场/胶囊/旅行 | 讨论场景、搭配、轻量、多用途 | 强行把穿搭话题转产品 | 像真实用户，少品牌感 |
-| 大型时尚社区 | 学语言、看趋势、偶尔低风险评论 | 早期集中投放或发品牌帖 | 熟悉社区文化后再动 |
-| 耐用品/质量社区 | 学耐用、维修、买得值语言 | 没证据就 claim 长寿命 | 证据导向、反营销 |
-
-## 6. 评论前风险清单
-
-- 这条评论是否真的回答 OP 的问题，而不是把话题转向 SUIJI？
-- 是否需要披露品牌/创始人/专家/调研身份？
-- 是否出现绝对化 claim，例如 100% 不过敏、永不褪色、所有敏感耳适合？
-- 是否涉及医疗诊断、感染判断、穿孔治疗？如果是，停止或建议专业人士线下判断。
-- 是否像复制粘贴模板？如果是，重写成针对帖子上下文的自然表达。
-- 是否含链接、折扣、购买引导？早期默认不要放。
-
-## 7. 本文档的数据限制
-
-- 本地社区库快照来自 2026-05-08；本次公开接口校准时间：2026-05-22T13:30:26.595310+00:00
-- Reddit 社区人数、活跃人数和规则会变化；每次公开发帖或高价值评论前，仍要打开目标 subreddit 人工复核规则。
-- `active_user_count`、页面周活跃和本地热度档位口径不同，不应混为一个精确指标；运营时看趋势和相对优先级。
-- 黑话列表是运营前预读词汇，不代表可以机械套用；真正要像社区成员，仍然要读近期高赞评论。
-
-## 8. 完整社区规则附录
-
-规则抓取时间：2026-05-22T13:30:26.595310+00:00
-
-说明：以下规则来自 Reddit 公开 `about/rules.json` 接口。标题采用英文原文 + 中文释义，规则说明采用英文原文 + 中文说明并排呈现。中文说明用于团队快速理解，实际行动前仍以 subreddit 最新规则页为准。
-
-### 类型字段说明
+## 5. 类型字段说明
 
 - `all`：适用于帖子和评论。
 - `link`：Reddit API 的旧字段名，通常指发帖/提交内容，不是只指外部链接。
 - `comment`：只适用于评论。
 
-### 抓取覆盖
+## 6. 完整社区规则附录
 
-- 已取到完整规则的社区：28 个
-- 规则接口返回空的社区：5 个，分别是：r/Benchjewelers, r/JewelryDesign, r/PiercingAdvice, r/jewelryCAD, r/metalsmithing
+规则抓取时间：2026-05-22T13:30:26.595310+00:00
+
+以下规则来自 Reddit 公开 `about/rules.json` 接口。标题采用英文原文 + 中文释义，规则说明采用英文原文 + 中文说明并排呈现。中文说明用于团队快速理解，实际行动前仍以 subreddit 最新规则页为准。
 
 ### r/Earrings 完整规则
 
@@ -611,12 +439,12 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 #### 2. No questions about infected ears（禁止询问耳洞感染相关问题）
 - 类型：all（帖子和评论）
 - 规则原文：Please route all questions to r/piercingadvice or r/piercing or seek a doctor.
-- 中文说明：所有感染相关问题请转到 r/piercingadvice 或 r/piercing，或寻求医生帮助。
+- 中文说明：涉及医疗、感染、安全风险或 DIY 处理时不要给危险建议，应建议专业人士线下判断。
 
 #### 3. No giveaways（禁止抽奖/赠品活动）
 - 类型：all（帖子和评论）
 - 规则原文：All giveaways will be removed
-- 中文说明：所有抽奖/赠品活动都会被移除。
+- 中文说明：这条规则主要要求：禁止抽奖/赠品活动。执行时请结合英文原文从严理解。
 
 #### 4. Earrings only（仅限耳饰相关内容）
 - 类型：all（帖子和评论）
@@ -632,8 +460,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 类型：all（帖子和评论）
 - 规则原文：无详细说明。
 - 中文说明：无详细说明。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
 
 ### r/jewelrymaking 完整规则
 
@@ -658,8 +484,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 类型：link（发帖/提交内容）
 - 规则原文：Titles should accurately reflect the post's topic with reasonable length. Avoid excessively short, long, or nondescript titles. Karma-seeking "Upvote if you think ...", clickbait titles, or titles driving engagement to a website or other avenue of revenue will be removed. Submission Flairs must accurately fit the submission, Guides, Requests, Showcases, and Questions should all be labeled as such.
 - 中文说明：避免垃圾信息、低质量内容、刷 karma、标题党、机器人或 AI 生成内容。发帖前要使用正确标题、标签、固定帖/周帖或社区发帖指南。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
 
 ### r/BusinessFashion 完整规则
 
@@ -725,8 +549,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：We do not allow the discussion of: 1. Politics or anything related to politics 2. Eating Disorders/ Body Dysmorphia 3. Religion 4. Cultural hot button issues such as abortion, immigration, LGBTQ+ serious debates etc 5. Serious discussions around gender or sexuality
 - 中文说明：禁止或必须标记成人/不适宜、性暗示、裸露、血腥等内容。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。避免政治、宗教、文化争议或其他容易引战的话题。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
 ### r/HerOneBag 完整规则
 
 来源：https://www.reddit.com/r/HerOneBag/about/rules
@@ -766,8 +588,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：We maintain [posting guidelines](https://www.reddit.com/mod/HerOneBag/wiki/index/read_before_posting) as part of this sub. Please read and follow them along with our [rules](https://www.reddit.com/mod/HerOneBag/wiki/rules).
 - 中文说明：发帖前要使用正确标题、标签、固定帖/周帖或社区发帖指南。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。内容要与轻量旅行、打包效率、单包旅行或相关 EDC 场景直接相关。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
 ### r/capsulewardrobe 完整规则
 
 来源：https://www.reddit.com/r/capsulewardrobe/about/rules
@@ -801,8 +621,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 类型：all（帖子和评论）
 - 规则原文：No, you cannot advertise your new app, or fish for testers, or ask if it's something people want. Marketing for your app or it's upcoming launch is not allowed on the sub.
 - 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
 
 ### r/Moissanite 完整规则
 
@@ -858,8 +676,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：Do not make posts asking if anyone has tried xxx vendor. We are not allowing this type of inquiry posts on the subreddit. You can do a search for the name on the subreddit instead to see if anyone has ever mentioned them. Also check out our wiki, there is a lot of information available about our recommended vendors and how to navigate finding great deals.
 - 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
 ### r/SyntheticGemstones 完整规则
 
 来源：https://www.reddit.com/r/SyntheticGemstones/about/rules
@@ -899,15 +715,11 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：No spam allowed on the sub!
 - 中文说明：避免垃圾信息、低质量内容、刷 karma、标题党、机器人或 AI 生成内容。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
 ### r/Benchjewelers 完整规则
 
 来源：https://www.reddit.com/r/Benchjewelers/about/rules
 
 接口未取到该社区规则列表。运营前必须人工检查：About、Rules、wiki、置顶帖、近期 moderator comment。
-
-运营提醒：不要把“接口没有规则”理解为“没有规则”。小型专业社区尤其依赖隐性规范和长期成员语气。
 
 ### r/jewelry 完整规则
 
@@ -973,8 +785,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：Stealing content from other members and reposting as your own = automatic lifetime ban.
 - 中文说明：内容必须聚焦耐用、实用、经验证、长期使用或高质量产品。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
 ### r/piercing 完整规则
 
 来源：https://www.reddit.com/r/piercing/about/rules
@@ -1019,15 +829,11 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：Low effort, memes, image macros, trolling, clickbait, (comment) bots, karma farming and the like, are not allowed
 - 中文说明：避免垃圾信息、低质量内容、刷 karma、标题党、机器人或 AI 生成内容。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
 ### r/PiercingAdvice 完整规则
 
 来源：https://www.reddit.com/r/PiercingAdvice/about/rules
 
 接口未取到该社区规则列表。运营前必须人工检查：About、Rules、wiki、置顶帖、近期 moderator comment。
-
-运营提醒：不要把“接口没有规则”理解为“没有规则”。小型专业社区尤其依赖隐性规范和长期成员语气。
 
 ### r/jewelers 完整规则
 
@@ -1078,23 +884,17 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：If you want your jewelry CAD image that you received from your jeweler looked at, post in r/askjewelers.
 - 中文说明：不要在线请求估价、真伪鉴定、宝石识别或仅凭照片下结论，必要时找本地专业人士。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
 ### r/JewelryDesign 完整规则
 
 来源：https://www.reddit.com/r/JewelryDesign/about/rules
 
 接口未取到该社区规则列表。运营前必须人工检查：About、Rules、wiki、置顶帖、近期 moderator comment。
 
-运营提醒：不要把“接口没有规则”理解为“没有规则”。小型专业社区尤其依赖隐性规范和长期成员语气。
-
 ### r/jewelryCAD 完整规则
 
 来源：https://www.reddit.com/r/jewelryCAD/about/rules
 
 接口未取到该社区规则列表。运营前必须人工检查：About、Rules、wiki、置顶帖、近期 moderator comment。
-
-运营提醒：不要把“接口没有规则”理解为“没有规则”。小型专业社区尤其依赖隐性规范和长期成员语气。
 
 ### r/fashionwomens35 完整规则
 
@@ -1139,8 +939,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 类型：all（帖子和评论）
 - 规则原文：Do not post questions or comments about lingerie, panty lines, intimate areas, fetish-wear, wearing or not wearing undergarments and the like. This rule should be interpreted widely, and that is not an exhaustive list. These type of questions and posts attract creeps. Don't attract creeps.
 - 中文说明：这条规则主要要求：Keep it G-rated。执行时请结合英文原文从严理解。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
 
 ### r/PetiteFashionAdvice 完整规则
 
@@ -1191,8 +989,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：NSFW content, including, but not limited to, NSFW photos, videos, comments, or links are prohibited. Posts/images that have been cross-posted to other NSFW sites/subs will be assumed as self-promotion and removed.
 - 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。禁止或必须标记成人/不适宜、性暗示、裸露、血腥等内容。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
 ### r/Weddingattireapproval 完整规则
 
 来源：https://www.reddit.com/r/Weddingattireapproval/about/rules
@@ -1232,7 +1028,68 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：It’s cute to post satire every now and then. There are plenty of subreddits designed for it. Please refrain from blatant troll and satire posts. It may lead to a no warning temporary ban.
 - 中文说明：这条规则主要要求：Troll posts。执行时请结合英文原文从严理解。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
+### r/Beading 完整规则
+
+来源：https://www.reddit.com/r/Beading/about/rules
+
+#### 1. No bullying/harassment（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：Abusive comments towards other users, "pitchforking" against any business or other sites, and other forms of bullying and harassment are not tolerated.
+- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。
+
+#### 2. No Advertising/Spam（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：No advertising your shop, business, sales, etc. Bead discussion and sharing only. All sales will be taken to DMs. And if you try to harass users into buying from you, you will be banned.
+- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。禁止索取、公开或传播私人信息，也不要私信骚扰或索要联系方式。
+
+#### 3. No sharing copyrighted patterns.（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：We support all artists and creators and therefore any posts of patterns, instructions, or discussion of "how do I copy this?" or pictures/scans of copyrighted works will be removed.
+- 中文说明：禁止假货、复刻、盗图、侵权、仿制或不道德来源内容。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
+
+#### 4. No dream catchers（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：By request dream catchers will no longer be allowed in this sub.
+- 中文说明：这条规则主要要求：No dream catchers。执行时请结合英文原文从严理解。
+
+#### 5. No linking to Aliexpress, Temu, or similar online markets（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：I don’t want to hear excuses for why you think they’re fine, don’t link to them, end of story. Don’t discuss buying beads from any of these sites either.
+- 中文说明：这条规则主要要求：No linking to Aliexpress, Temu, or similar online markets。执行时请结合英文原文从严理解。
+
+#### 6. No stealing other people’s work（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：If you repost someone else’s work as your own, you will be banned. If it isn't your work, it should only be posted if you have questions about it.
+- 中文说明：这条规则主要要求：No stealing other people’s work。执行时请结合英文原文从严理解。
+
+#### 7. No politics（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：Do not post politically charged content. If you post something that is not inherently political, but could be made to be political, post the details of how it was made in the title, not commentary on an issue.
+- 中文说明：发帖前要使用正确标题、标签、固定帖/周帖或社区发帖指南。避免政治、宗教、文化争议或其他容易引战的话题。
+
+#### 8. No AI images（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：Do not post AI generated content. It irritates the other beaders and makes the mods cranky. Post your beaded works, but leave out anything AI generated.
+- 中文说明：这条规则主要要求：No AI images。执行时请结合英文原文从严理解。
+
+### r/PandoraCollectors 完整规则
+
+来源：https://www.reddit.com/r/PandoraCollectors/about/rules
+
+#### 1. Privacy（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：No sharing private information or soliciting private information
+- 中文说明：禁止索取、公开或传播私人信息，也不要私信骚扰或索要联系方式。禁止佣金请求、招揽用户联系或把讨论转为私下交易。
+
+#### 2. No harassment（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：No harassing people of any form, online or in person. It’s a pandora sub, it’s really not that serious.
+- 中文说明：保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。
+
+#### 3. No misinformation（待人工翻译/复核）
+- 类型：all（帖子和评论）
+- 规则原文：Don’t try to pass off fake thinks as authentic. If you’re using fake charms just say they’re fake, thanks your business. Don’t try to scam people into getting a fake charm thinking it’s real. Don’t misrepresent yourself or any entity/company.
+- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。禁止假货、复刻、盗图、侵权、仿制或不道德来源内容。
 
 ### r/BuyItForLife 完整规则
 
@@ -1277,8 +1134,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 类型：all（帖子和评论）
 - 规则原文：8 /r/BuyItForLife is not a place to advertise your business or sell your product. Want to advertise on Reddit? [Start here](https://www.redditinc.com/advertising?utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=BuyItForLife&amp;utm_content=t5_2ss1q). Want to contribute look [here](https://www.reddit.com/r/BuyItForLife/wiki/3rdparty?utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=BuyItForLife&amp;utm_content=t5_2ss1q)
 - 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
 
 ### r/OUTFITS 完整规则
 
@@ -1344,69 +1199,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：Titles should be neutral in tone and not designed to provoke reactions or generate clicks. Examples of inappropriate posts/titles: &gt; 1. Age appropriateness questions &gt; 2. "Am I too xyz for this?" &gt; 3. Relationship related questions &gt; 4. References to people other than the poster (especially partners) &gt; 5. Mentioning your age in your post &gt; 6. Meta - use modmail for feedback about the sub &gt; 7. Not enough info to answer your question, e.g. interview advice w/o specifying the job
 - 中文说明：禁止索取、公开或传播私人信息，也不要私信骚扰或索要联系方式。发帖前要使用正确标题、标签、固定帖/周帖或社区发帖指南。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
-### r/femalefashionadvice 完整规则
-
-来源：https://www.reddit.com/r/femalefashionadvice/about/rules
-
-#### 1. spam or referral links（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：FFA prohibits spam, including but not limited to: use of affiliate/referral links or explicit advertisements for blogs, companies, apps, or websites. Please see our full [guidelines for brands and blogs](https://www.reddit.com/r/femalefashionadvice/wiki/rules#wiki_on_brand_participation_in_ffa) for further details on this.
-- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。避免垃圾信息、低质量内容、刷 karma、标题党、机器人或 AI 生成内容。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 2. marketing or market research（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：FFA prohibits marketing, including but not limited to: seeking opinions on your company's products/services or those of your competitors; recruiting customers for a product, mailing list, app or website; or otherwise using FFA as a focus group. Please see our full [guidelines for brands and blogs](https://www.reddit.com/r/femalefashionadvice/wiki/rules#wiki_on_brand_participation_in_ffa) for further details on this.
-- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 3. personal attacks or hate speech（待人工翻译/复核）
-- 类型：comment（评论）
-- 规则原文：FFA prohibits personal attacks, including but not limited to: sexist, racist, classist, or homophobic comments, body-shaming, hate speech, and victim-blaming. This includes any of these types of attacks directed at individuals outside of the subreddit. Please report these comments if you see them, instead of responding.
-- 中文说明：保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 4. threats or doxxing（待人工翻译/复核）
-- 类型：comment（评论）
-- 规则原文：FFA prohibits threats including but not limited to: threats of violence, threats of sexual assault, harassment, or blackmail. We also prohibit exposure of personal information including but not limited to: links to another user's real name, personally identifiable information or social media profiles without their permission.
-- 中文说明：保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。禁止或必须标记成人/不适宜、性暗示、裸露、血腥等内容。禁止索取、公开或传播私人信息，也不要私信骚扰或索要联系方式。
-
-#### 5. lechery（待人工翻译/复核）
-- 类型：comment（评论）
-- 规则原文：FFA prohibits lechery, including any and all evaluative remarks about other users' bodies, body parts or physical characteristics. **Good or bad**. Much like catcalling in real life, even if your intentions are positive, you have no way of knowing how this type of comment may come across. Please help us preserve a comfortable vibe where no one gets creeped on.
-- 中文说明：评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 6. unsolicited diet, exercise or weight loss advice（待人工翻译/复核）
-- 类型：comment（评论）
-- 规则原文：Though our bodies and body image intersect with fashion in a number of ways, FFA is primarily a forum for fashion advice, and participants in this subreddit have not opted in to your opinion or advice on their weight, body composition, diet, or lifestyle. Comments offering advice on these topics in response to a fashion-related question will be removed. The weekly Hair, Makeup, Skincare, Fitness and Fragrance thread is generally exempt from this rule, assuming comments are on-topic.
-- 中文说明：发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
-
-#### 7. posts that belong in a daily/weekly thread（待人工翻译/复核）
-- 类型：link（发帖/提交内容）
-- 规则原文：Certain types of questions or content (including requests for personal advice) are better suited to one of our daily or weekly threads, and top level posts will be removed accordingly. This includes selfies and outfit posts, simple questions, and narrow requests for personalized advice. [Learn more about those here.](https://www.reddit.com/r/femalefashionadvice/wiki/sq) (applies to top level posts only)
-- 中文说明：发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 8. meta posts（待人工翻译/复核）
-- 类型：link（发帖/提交内容）
-- 规则原文：Top level posts that are primarily *about* the subreddit itself will be removed unless cleared in advance by the moderators. Meta discussion is welcome at any time in the comments of [General Discussion](https://www.reddit.com/r/femalefashionadvice/search?q=general+discussion&amp;restrict_sr=on&amp;sort=new&amp;t=all), or you can share feedback or ideas for FFA privately via [modmail](https://www.reddit.com/message/compose?to=%2Fr%2Ffemalefashionadvice) if you'd prefer. (applies to top level posts only)
-- 中文说明：禁止索取、公开或传播私人信息，也不要私信骚扰或索要联系方式。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
-
-#### 9. disingenuous and/or bad faith（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：User is posting with disingenuous intentions and/or bad faith while frequenting the subreddit. Posting history may expose details further elaborating upon this.
-- 中文说明：这条规则主要要求：disingenuous and/or bad faith。执行时请结合英文原文从严理解。
-
-#### 10. negative body talk（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Refrain from talking negatively about your own body, we understand that you are likely frustrated due to various reasons (we’ve all been there) but out of respect for others and their struggles, keeping it positive helps everyone.
-- 中文说明：保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 11. no crossposts where content could be posted on FFA（待人工翻译/复核）
-- 类型：link（发帖/提交内容）
-- 规则原文：Cross-posts where the content could be posted in FFA are not allowed. We ask that if your post could be its own standalone topic in FFA, that you post here instead of cross-posting it.
-- 中文说明：这条规则主要要求：no crossposts where content could be posted on FFA。执行时请结合英文原文从严理解。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
 ### r/minimalism 完整规则
 
 来源：https://www.reddit.com/r/minimalism/about/rules
@@ -1440,8 +1232,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 类型：all（帖子和评论）
 - 规则原文：AI has its place in new technology, but this isn't one of them. Due to repeated use of AI as a means of subtle content promotion, we don't allow any AI-generated posts or comments in this subreddit.
 - 中文说明：避免垃圾信息、低质量内容、刷 karma、标题党、机器人或 AI 生成内容。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
 
 ### r/onebag 完整规则
 
@@ -1482,85 +1272,11 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：No marketing, research, or advertising posts. Advertising of your own company, blogs, websites, social media accounts, Youtube channel, etc., are only allowed for regular sub contributors, and must make up no more than 10% of your overall contribution to this subreddit. This will be at moderator discretion.
 - 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
+### r/metalsmithing 完整规则
 
-### r/Beading 完整规则
+来源：https://www.reddit.com/r/metalsmithing/about/rules
 
-来源：https://www.reddit.com/r/Beading/about/rules
-
-#### 1. No bullying/harassment（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Abusive comments towards other users, "pitchforking" against any business or other sites, and other forms of bullying and harassment are not tolerated.
-- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。
-
-#### 2. No Advertising/Spam（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：No advertising your shop, business, sales, etc. Bead discussion and sharing only. All sales will be taken to DMs. And if you try to harass users into buying from you, you will be banned.
-- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。禁止索取、公开或传播私人信息，也不要私信骚扰或索要联系方式。
-
-#### 3. No sharing copyrighted patterns.（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：We support all artists and creators and therefore any posts of patterns, instructions, or discussion of "how do I copy this?" or pictures/scans of copyrighted works will be removed.
-- 中文说明：禁止假货、复刻、盗图、侵权、仿制或不道德来源内容。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
-
-#### 4. No dream catchers（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：By request dream catchers will no longer be allowed in this sub.
-- 中文说明：这条规则主要要求：No dream catchers。执行时请结合英文原文从严理解。
-
-#### 5. No linking to Aliexpress, Temu, or similar online markets（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：I don’t want to hear excuses for why you think they’re fine, don’t link to them, end of story. Don’t discuss buying beads from any of these sites either.
-- 中文说明：这条规则主要要求：No linking to Aliexpress, Temu, or similar online markets。执行时请结合英文原文从严理解。
-
-#### 6. No stealing other people’s work（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：If you repost someone else’s work as your own, you will be banned. If it isn't your work, it should only be posted if you have questions about it.
-- 中文说明：这条规则主要要求：No stealing other people’s work。执行时请结合英文原文从严理解。
-
-#### 7. No politics（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Do not post politically charged content. If you post something that is not inherently political, but could be made to be political, post the details of how it was made in the title, not commentary on an issue.
-- 中文说明：发帖前要使用正确标题、标签、固定帖/周帖或社区发帖指南。避免政治、宗教、文化争议或其他容易引战的话题。
-
-#### 8. No AI images（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Do not post AI generated content. It irritates the other beaders and makes the mods cranky. Post your beaded works, but leave out anything AI generated.
-- 中文说明：这条规则主要要求：No AI images。执行时请结合英文原文从严理解。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
-### r/Pandora 完整规则
-
-来源：https://www.reddit.com/r/Pandora/about/rules
-
-#### 1. loren ipsum（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Lorem ipsum dolor sit amet. Quo numquam ipsam et nesciunt obcaecati quo ipsam error et minima voluptates? A nihil incidunt est odio rerum quo minus dignissimos aut iste sint. Et debitis itaque id odio minus est quia quis.
-- 中文说明：占位文本/无实际规则说明。运营前需要人工复核该社区真实规则。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
-### r/PandoraCollectors 完整规则
-
-来源：https://www.reddit.com/r/PandoraCollectors/about/rules
-
-#### 1. Privacy（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：No sharing private information or soliciting private information
-- 中文说明：禁止分享私人信息，也禁止索取私人信息。
-
-#### 2. No harassment（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：No harassing people of any form, online or in person. It’s a pandora sub, it’s really not that serious.
-- 中文说明：禁止任何形式的线上或线下骚扰。这只是 Pandora 社区，不要把事情搞得太严重。
-
-#### 3. No misinformation（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Don’t try to pass off fake thinks as authentic. If you’re using fake charms just say they’re fake, thanks your business. Don’t try to scam people into getting a fake charm thinking it’s real. Don’t misrepresent yourself or any entity/company.
-- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。禁止假货、复刻、盗图、侵权、仿制或不道德来源内容。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
+接口未取到该社区规则列表。运营前必须人工检查：About、Rules、wiki、置顶帖、近期 moderator comment。
 
 ### r/SilverSmith 完整规则
 
@@ -1586,54 +1302,6 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：We communicate with one another respectfully, or not at all.
 - 中文说明：保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
-### r/Stretched 完整规则
-
-来源：https://www.reddit.com/r/Stretched/about/rules
-
-#### 1. Mark NSFW posts（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Please use the NSFW tag for images of: • Fresh punches • Infections • Fresh blowouts • Any genital piercing stretches, male or female (nipples, pubic mound, etc. are included in this). • Fresh stitches
-- 中文说明：禁止或必须标记成人/不适宜、性暗示、裸露、血腥等内容。涉及医疗、感染、安全风险或 DIY 处理时不要给危险建议，应建议专业人士线下判断。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
-
-#### 2. Spam（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：In regards to spam: Due to recent occurrences, this subreddit is moving to a no questions asked spam policy. No posts about jewelry selling are allowed, whatsoever, due to safety reasons, and general nuisance.
-- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。避免垃圾信息、低质量内容、刷 karma、标题党、机器人或 AI 生成内容。
-
-#### 3. No demeaning terms or personal attacks（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Mods reserve the right to remove content or restrict users' posting privileges as necessary if it is deemed detrimental to the subreddit or to the experience of others.
-- 中文说明：这条规则主要要求：No demeaning terms or personal attacks。执行时请结合英文原文从严理解。
-
-#### 4. Do not spread harmful advice or misinformation（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Do not give any potentially harmful advice/spread misinformation. Please conduct your own research before giving out information. Just because it worked for you, that does not mean it is safe for others.
-- 中文说明：涉及医疗、感染、安全风险或 DIY 处理时不要给危险建议，应建议专业人士线下判断。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。
-
-#### 5. Memes/shitposts（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Due to the previous r/stretchedcirclejerk ban, we are allowing memes/shiposts/non serious posts on the sub. Appropriate flair must be used [meme/shipost]. No identifying/personal information including strangers' faces and usernames. Blur these where appropriate. Mark NSFW as appropriate.
-- 中文说明：禁止或必须标记成人/不适宜、性暗示、裸露、血腥等内容。禁止索取、公开或传播私人信息，也不要私信骚扰或索要联系方式。发帖前要使用正确标题、标签、固定帖/周帖或社区发帖指南。不要在线请求估价、真伪鉴定、宝石识别或仅凭照片下结论，必要时找本地专业人士。内容要与轻量旅行、打包效率、单包旅行或相关 EDC 场景直接相关。
-
-#### 6. Spreading Information on or Using Unsafe Practices（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：This sub-reddit only promotes the safest materials and methods of stretching. While questions are encouraged, we do not allow users to encourage the use of unsafe practices. Safe practices and other information can be found in the [Stretching Guide](https://docs.google.com/document/d/1THlY_lxi9wnYNs-ZFVsXN1fv8x8dTcdT4vfqoJUx9Uc/edit?tab=t.0)
-- 中文说明：涉及医疗、感染、安全风险或 DIY 处理时不要给危险建议，应建议专业人士线下判断。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 7. No Low Quality Images（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：The use of low quality images will be removed. The use of high quality images, especially when asking for advice or information, is important to ensure the best advice can be given. Additionally, this is a sub for stretched piercings and those piercings must be clearly visible.
-- 中文说明：评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
-
-#### 8. Don't be creepy.（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：无详细说明。
-- 中文说明：无详细说明。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
 ### r/WireWrapping 完整规则
 
 来源：https://www.reddit.com/r/WireWrapping/about/rules
@@ -1643,161 +1311,8 @@ This subreddit is a Safe Space for Women, BIPOC, and anyone in the LGBTQ+ commun
 - 规则原文：1) no sales posts 2) be kind 3) no filters or effects 4) do post tutorials 5) no links to stores in titles
 - 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。发帖前要使用正确标题、标签、固定帖/周帖或社区发帖指南。
 
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
+## 7. 复核限制
 
-### r/metalsmithing 完整规则
-
-来源：https://www.reddit.com/r/metalsmithing/about/rules
-
-接口未取到该社区规则列表。运营前必须人工检查：About、Rules、wiki、置顶帖、近期 moderator comment。
-
-运营提醒：不要把“接口没有规则”理解为“没有规则”。小型专业社区尤其依赖隐性规范和长期成员语气。
-
-### r/silversmith 完整规则
-
-来源：https://www.reddit.com/r/silversmith/about/rules
-
-#### 1. Beginners Resources Pinned Post（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：New to the trade? Before posting asking for beginners resources, please see the pinned post. If your post can be answered by our beginners resource, a mod will comment with a link to it and delete your post. No hard feelings, but the answers are the same for everyone.
-- 中文说明：这条规则主要要求：Beginners Resources Pinned Post。执行时请结合英文原文从严理解。
-
-#### 2. No posts regarding sales or self promotion（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Thanks for keeping in mind that this sub is for talking about our craft, not for advertising or making sales.
-- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。
-
-#### 3. No commission requests（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：No posts or comments requesting commissions. If you like someones work, reach out to them privately.
-- 中文说明：禁止佣金请求、招揽用户联系或把讨论转为私下交易。
-
-#### 4. Respectful discourse（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：We communicate with one another respectfully, or not at all.
-- 中文说明：保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
-### r/WitchesVsPatriarchy 完整规则
-
-来源：https://www.reddit.com/r/WitchesVsPatriarchy/about/rules
-
-#### 1. Be kind（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：* Avoid commenting in ways that are likely to hurt others. * Do not dismissively link other subreddits to make your point (i.e. /r/thathappened or /r/notlikeothergirls). * Respond in kind - humorous content doesn't need overzealous interpretation, serious topics should be treated with care and respect. * Consider "reading the room" before making a hasty reply. * Callouts to WvP mods, users, or meta-style queries should be expressed via Modmail.
-- 中文说明：保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。禁止索取、公开或传播私人信息，也不要私信骚扰或索要联系方式。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。
-
-#### 2. Destroy the Patriarchy（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：* Posts or comments w/ signs of racism, misogyny, toxic masculinity, homophobia, transphobia, classism, ableism, or otherwise upholding the patriarchy, will be removed &amp; likey result in a ban. * Supporting or advocating for cultural appropriation is not allowed. Users may ask questions in good faith but only answers by members of the appropriated culture or citing first person sources will be allowed.
-- 中文说明：这条规则主要要求：Destroy the Patriarchy。执行时请结合英文原文从严理解。
-
-#### 3. No Evangelizing（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：* Witches are not meant to be saints. Users tone policing or demanding politeness in the face of bigotry may be banned. * We encourage users to explore the more mystical explanations for everyday occurrences. Please be respectful of others' approaches to witchcraft. * It is important that everyone feels comfortable and free from any pressure to conform to specific religious beliefs. Users imposing religious ideals are likely to be banned.
-- 中文说明：保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 4. Follow Coven Etiquette（待人工翻译/复核）
-- 类型：link（发帖/提交内容）
-- 规则原文：* To avoid intentional or unintentional brigading don’t link to or tag other subreddits, this includes screenshots &amp; attempts to obfuscate w/ text (i.e., w!tchesvspatriarchy). * Cross-posting is turned off for this subreddit, please avoid direct-linking in general. * Please remember to credit artists &amp; creators when sharing artwork or media. You may be asked to resubmit if you leave this content off. * Avoid linking to other communities (off-site), Discord, or social media platforms.
-- 中文说明：这条规则主要要求：Follow Coven Etiquette。执行时请结合英文原文从严理解。
-
-#### 5. Marketplace and Economic Rules（待人工翻译/复核）
-- 类型：link（发帖/提交内容）
-- 规则原文：- **SATURDAY** is Market day! See [full Guidelines.](https://www.reddit.com/r/WitchesVsPatriarchy/wiki/marketplace_vendor_guide/) - No dropshipping, white labeling, sale of AI-generated art, MLMs, NFTs, or Witchcraft for Pay (W4P). - W4P includes tarot, spell-casting, divination, or similar practices. - Marketplace is not to be used to solicit gift offers. Posts discussing financial status or hinting at a need for monetary assistance (soft begging) will be removed.
-- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。避免垃圾信息、低质量内容、刷 karma、标题党、机器人或 AI 生成内容。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。禁止佣金请求、招揽用户联系或把讨论转为私下交易。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
-### r/cottagecore 完整规则
-
-来源：https://www.reddit.com/r/cottagecore/about/rules
-
-#### 1. Self promotion posts are not allowed（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Please refrain from self-promoting anywhere other than our self promotion sub r/CottagecoreStore. Duplicate posts on both subreddits will be removed from r/cottagecore. Posts made with the intent to further growth, profit, or engagement to your own platform/business are not allowed. Posts from accounts with shop links in their bios will be removed. After 3 removals the offending account will be banned.
-- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。避免垃圾信息、低质量内容、刷 karma、标题党、机器人或 AI 生成内容。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 2. Spam/Low effort posts are not allowed（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Please do not post unnecessary/unrelated links, promotion, or comments. No AI content.
-- 中文说明：这条规则主要要求：Spam/Low effort posts are not allowed。执行时请结合英文原文从严理解。
-
-#### 3. No bigotry（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：No racism, sexism, homophobia, transphobia, etc will be tolerated.
-- 中文说明：这条规则主要要求：No bigotry。执行时请结合英文原文从严理解。
-
-#### 4. No NSFW/NSFL content（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Please do not post sexual content or triggering content. This is community is largely minors, and thus should not have posts exposing any minors (and non-consenting adults) to explicit content. Accounts featuring NSFW content will be banned.
-- 中文说明：禁止或必须标记成人/不适宜、性暗示、裸露、血腥等内容。
-
-#### 5. Artists must be credited（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：If content is not yours, please ask for permission to repost it here AND you must provide credit to the original creator!
-- 中文说明：这条规则主要要求：Artists must be credited。执行时请结合英文原文从严理解。
-
-#### 6. Do not attempt to plan in-person meet-ups（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Any attempts to create in-person communes, groups, or get-togethers will be removed. These attempts create a great risk and we have no way to moderate nor verify these communities, their leaders, or any intention they may have.
-- 中文说明：这条规则主要要求：Do not attempt to plan in-person meet-ups。执行时请结合英文原文从严理解。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
-
-### r/oldhagfashion 完整规则
-
-来源：https://www.reddit.com/r/oldhagfashion/about/rules
-
-#### 1. Be Kind（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：No bigotry, snark, or unkindness. See the full [Rules &amp; Guidelines](https://new.reddit.com/r/oldhagfashion/wiki/rules). Report as unkind.
-- 中文说明：保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 2. No gatekeeping Old Hag Fashion（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：No questioning whether something qualifies as “old hag.” See the full [rules](https://new.reddit.com/r/oldhagfashion/wiki/rules). Report as gatekeeping OHF.
-- 中文说明：发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 3. Respect the flair（待人工翻译/复核）
-- 类型：comment（评论）
-- 规则原文：Review descriptions of post flair [here](https://new.reddit.com/r/oldhagfashion/wiki/flair). Report as Respect the flair.
-- 中文说明：保持友善和尊重，禁止辱骂、骚扰、仇恨、歧视或恶意攻击。发帖前要使用正确标题、标签、固定帖/周帖或社区发帖指南。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 4. No prohibited accounts（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：In brief: no OnlyFans or solicitation accounts, no accounts with a lascivious following, and no lechery. See [the full rules](https://new.reddit.com/r/oldhagfashion/wiki/rules) for descriptions of prohibited accounts. Report as prohibited account.
-- 中文说明：发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。禁止佣金请求、招揽用户联系或把讨论转为私下交易。
-
-#### 5. No prohibited body talk（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：See the full [rules](https://new.reddit.com/r/oldhagfashion/wiki/rules). Basically just don't talk about other people's body unprompted. Report as prohibited body talk.
-- 中文说明：发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 6. No lechery（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：Lecherous comments will be removed and the poster permanently banned. We also moderate OPs that seem to be posting to gather a lecherous following. See the full [Rules &amp; Guidelines](https://new.reddit.com/r/oldhagfashion/wiki/rules).
-- 中文说明：发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 7. No stand-alone rants, trend bashing, or inter-sub drama（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：See the full [rules](https://new.reddit.com/r/oldhagfashion/wiki/rules) for a description of rants, trend bashing and drama. Rants can be made in the weekly General Discussion Lounge.
-- 中文说明：发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-#### 8. No single-item images or face-only selfies（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：We moderate single-item images and face-only selfies, and request that your post’s *first* image is of as much of the outfit as you can show, but at minimum should be from the hips to the neck. This also includes posts with the "I made this" flair, though showing handmade items is less strictly moderated. See the full [Rules &amp; Guidelines](https://new.reddit.com/r/oldhagfashion/wiki/rules) for more information.
-- 中文说明：禁止索取、公开或传播私人信息，也不要私信骚扰或索要联系方式。发帖前要使用正确标题、标签、固定帖/周帖或社区发帖指南。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
-
-#### 9. No reposts or spammed posts（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：No posting images that have already been shared. No sharing of posts which are identical to those made on more than two other subreddits. See the full [Rules &amp; Guidelines](https://new.reddit.com/r/oldhagfashion/wiki/rules). Report as Repost / spammed post
-- 中文说明：避免垃圾信息、低质量内容、刷 karma、标题党、机器人或 AI 生成内容。发帖前先阅读 FAQ、wiki、侧边栏或搜索已有讨论。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。图片/照片需要清晰、相关、信息充分，避免低质量或看不清。
-
-#### 10. No recommending items from AI companies or AliExpress/Shein/Ultra Fast Fashion/Known Drop Shippers（待人工翻译/复核）
-- 类型：all（帖子和评论）
-- 规则原文：While we understand that times are tough and that no company is perfect, we do not condone the use of the above sources for clothing as they are extremely harmful to the environment and their laborers. Outfits including items from these sources are still allowed, but refrain from sharing where they were purchased. Although fast fashion, AI use, and terrible business practice is everywhere, we want to avoid encouraging interaction with the worst of the worst.
-- 中文说明：不要发布广告、自我推广、销售、商家招揽、联盟/返利链接或营销调研内容。涉及医疗、感染、安全风险或 DIY 处理时不要给危险建议，应建议专业人士线下判断。评论要聚焦穿搭/内容本身，避免外貌、身体、体重、性别、年龄或性暗示评价。
-
-运营提醒：发帖或评论前仍需打开规则页确认是否有新增/置顶补充；品牌、链接、折扣、调研身份、专家身份相关内容默认从严处理。
+- Reddit 社区定位、规则和活跃度会变化；每次公开发帖或高价值评论前仍需打开社区页面人工复核。
+- “保留”不代表可以提 SUIJI 产品；多数社区早期只适合帮助型评论、提问、观察和专家事实边界。
+- “删除/暂不纳入”不代表永远不能看，只是不进入当前运营队列。
