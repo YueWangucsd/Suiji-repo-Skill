@@ -5,7 +5,7 @@
 适用团队：运营负责人/创始人 1 人、首饰专家 1 人、跨领域成员 5 人、Codex/AI 支持  
 核心目标：30% 客户痛点理解，70% 种子用户孵化
 
-飞书 Docx 链接：https://f0ldzvcs4a2.feishu.cn/docx/Q7B4dRZThoq5SGxzYMGcStYCnyh
+飞书 Docx 链接：https://f0ldzvcs4a2.feishu.cn/docx/Vus3dWGKRoc2PpxgY96c451Hn2g
 
 ## 1. 一句话说明
 
@@ -17,11 +17,11 @@
 
 ### 2.1 主入口
 
-`SUIJI Reddit 运营系统索引` 是总目录，用来找到所有运营文档、工作台、知识库和 skill 说明。飞书链接：https://www.feishu.cn/file/NWhzb0isOoGCQTxL4NTcxl8PnTf
+`SUIJI Reddit 运营系统索引` 是总目录，用来找到所有运营文档、工作台、知识库和 skill 说明。飞书链接：https://f0ldzvcs4a2.feishu.cn/docx/LGMrdpXVGoJy6HxWgcCcMAVanHb
 
 ### 2.2 行为红线和 Reddit 运营原则
 
-`Reddit运营中文手册-基于Masters-in-Marketing` 是基础行为手册，重点是社区优先、先观察再参与、评论优先于发帖、避免硬广和伪装用户。飞书链接：https://www.feishu.cn/file/Qr6Ab0Ntro3sUKxixyZcrK7cnvb
+`Reddit运营中文手册-基于Masters-in-Marketing` 是基础行为手册，重点是社区优先、先观察再参与、评论优先于发帖、避免硬广和伪装用户。飞书链接：https://f0ldzvcs4a2.feishu.cn/docx/Bem5dX2pwo8dkGxivVBccIhTneO
 
 Reddit 官方 `Organic Playbook` 用来校准品牌在 Reddit 的自然运营方式：先理解社区，再以有用、真实、低营销感的方式参与。官方链接：https://redditinc.com/hubfs/Reddit%20Inc/Content/Reddit%20Pros%20organic%20playbook.pdf
 

@@ -38,13 +38,19 @@ SUIJI 现在已经有 Reddit 相关资料、社区库、首饰知识库、高赞
 
 由于当前飞书 bot 对 `Suiji/Reddit` 文件夹没有写入权限，本次文件先创建在 bot 默认根目录，并自动授予当前飞书用户可管理权限。后续可以在飞书里手动移动到单独文件夹 `SUIJI Reddit 运营系统 v0.1`。
 
-- 运营系统索引：https://www.feishu.cn/file/NWhzb0isOoGCQTxL4NTcxl8PnTf
-- 运营 SOP：https://www.feishu.cn/file/OpSSbyheGoA7EAx7gIHcalLBnsf
-- 每日运营制度：https://www.feishu.cn/file/RAdqbAZdEo6my8xbfDZcK98wnhh
-- 周报制度：https://www.feishu.cn/file/TwDLbeQmfoeJr8xJUjkcHzzOn1f
-- Skill 修改方案：https://www.feishu.cn/file/ZWezbsUuAoJ5UVxjBiScO5wtniE
+- Reddit 运营中文手册 Docx：https://f0ldzvcs4a2.feishu.cn/docx/Bem5dX2pwo8dkGxivVBccIhTneO
+- 飞书原生文件链接清单 Docx：https://f0ldzvcs4a2.feishu.cn/docx/AJjXdOauZo3kG4xAWd5cZaApnmd
+- 团队运营 SOP Docx（最新版）：https://f0ldzvcs4a2.feishu.cn/docx/Vus3dWGKRoc2PpxgY96c451Hn2g
+- 运营 SOP Docx：https://f0ldzvcs4a2.feishu.cn/docx/S1hzdecbOo5mlHx01Bnc1VpmnTs
+- 每日运营制度 Docx：https://f0ldzvcs4a2.feishu.cn/docx/HLOYdCmbQoyIVdxdQ13cNf1Dnfb
+- 周报制度 Docx：https://f0ldzvcs4a2.feishu.cn/docx/B4CZdXIUcoEJgrxStVccUvAAn9g
+- Skill 修改方案 Docx：https://f0ldzvcs4a2.feishu.cn/docx/NOmbdbdZ6oufu6xvhltcHld3ncg
 - 运营工作台 Sheet：https://f0ldzvcs4a2.feishu.cn/sheets/Lsd1s6BA1hgz06tznJqcS8jJndd
-- 团队运营 SOP Docx：https://f0ldzvcs4a2.feishu.cn/docx/Q7B4dRZThoq5SGxzYMGcStYCnyh
+- 运营知识库 Sheet：https://f0ldzvcs4a2.feishu.cn/sheets/TTB9sRZEBhPAVotokegcl4zqnHd
+- 高赞内容结构库 Sheet：https://f0ldzvcs4a2.feishu.cn/sheets/IuMEskmgvhbNEktRmdycwUlOnib
+- 运营系统迁移说明 Docx：https://f0ldzvcs4a2.feishu.cn/docx/P5v5dufpqomYTYxGAmdciMZ1nGg
+
+旧的 `www.feishu.cn/file/...` 链接已被原生 `docx/...` 版本替代，后续以本节链接为准。
 
 ## 和旧知识库的关系
 
